@@ -116,18 +116,23 @@ async function main() {
             const members = [];
             // Check if it contains LDES metadata
             const ldesMetadata = store.getQuads(null, df.namedNode("https://w3id.org/tree#member"), null, null);
+            const hasLDES = store.getQuads(null, df.namedNode("http://www.w3.org/1999/02/22-rdf-syntax-ns#type"), df.namedNode("https://w3id.org/ldes#EventStream"), null);
 
             if (ldesMetadata.length > 0) {
                 // Extract the quads of the members only
                 ldesMetadata.forEach(q => {
                     members.push(...store.getQuads(q.object, null, null, null));
                 });
-            } else {
+	
+                // Create a corresponding DROP INSERT query
+                console.log(DROP_INSERT(members, targetGraph));
+            // ALL case if not an empty LDES
+            } else if (hasLDES.length == 0) {
                 // Extract all quads
                 members.push(...store.getQuads(null, null, null, null));
+                // Create a corresponding DROP INSERT query
+                console.log(DROP_INSERT(members, targetGraph));
             }
-            // Create a corresponding DROP INSERT query
-            console.log(DROP_INSERT(members, targetGraph));
         }
 
     } catch (err) {
