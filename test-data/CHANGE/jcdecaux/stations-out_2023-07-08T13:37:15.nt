@@ -1,0 +1,850 @@
+<https://jcdecaux.com/ldes.ttl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/ldes#EventStream> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/ldes#timestampPath> <http://purl.org/dc/terms/created> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/ldes#versionOfPath> <http://purl.org/dc/terms/isVersionOf> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/besancon/5#1699973543609> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/bruxelles/211#1699973543610> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/bruxelles/55#1699973543611> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/dublin/100#1699973543612> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/dublin/19#1699973543613> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/dublin/24#1699973543614> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/dublin/26#1699973543615> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/dublin/33#1699973543616> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/dublin/66#1699973543617> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/dublin/67#1699973543618> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/dublin/68#1699973543619> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/dublin/74#1699973543620> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/dublin/91#1699973543621> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/dublin/93#1699973543622> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/dublin/96#1699973543623> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/ljubljana/1#1699973543624> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/ljubljana/14#1699973543625> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/ljubljana/17#1699973543626> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/ljubljana/59#1699973543627> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/ljubljana/6#1699973543628> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/1#1699973543629> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/110#1699973543630> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/111#1699973543631> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/12#1699973543632> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/120#1699973543633> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/14#1699973543634> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/3#1699973543635> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/5#1699973543636> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/52#1699973543637> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/56#1699973543638> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/6#1699973543639> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/60#1699973543640> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/7#1699973543641> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/73#1699973543642> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/74#1699973543643> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/78#1699973543644> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/luxembourg/97#1699973543645> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/10002#1699973543646> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/10025#1699973543647> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/10046#1699973543648> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/10074#1699973543649> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/10086#1699973543650> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/10110#1699973543651> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/1022#1699973543652> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/1032#1699973543653> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/3006#1699973543654> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/3019#1699973543655> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/3094#1699973543656> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/3101#1699973543657> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/5004#1699973543658> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/5040#1699973543659> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/6002#1699973543660> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/6007#1699973543661> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/6023#1699973543662> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/6024#1699973543663> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/6025#1699973543664> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/7031#1699973543665> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/7055#1699973543666> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/7061#1699973543667> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/8002#1699973543668> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/8004#1699973543669> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/lyon/8020#1699973543670> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/maribor/15#1699973543671> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/nantes/107#1699973543672> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/nantes/31#1699973543673> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/nantes/46#1699973543674> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/nantes/55#1699973543675> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/nantes/77#1699973543676> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/nantes/96#1699973543677> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/seville/13#1699973543678> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/seville/31#1699973543679> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/seville/60#1699973543680> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/seville/77#1699973543681> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/toulouse/11#1699973543682> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/toulouse/136#1699973543683> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/toulouse/149#1699973543684> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/toulouse/166#1699973543685> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/toulouse/168#1699973543686> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/toulouse/19#1699973543687> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/toulouse/237#1699973543688> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/toulouse/31#1699973543689> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/toulouse/68#1699973543690> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/valence/146#1699973543691> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/valence/153#1699973543692> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/valence/170#1699973543693> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/valence/183#1699973543694> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/valence/21#1699973543695> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/valence/222#1699973543696> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/valence/24#1699973543697> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/valence/38#1699973543698> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/valence/45#1699973543699> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/valence/68#1699973543700> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/valence/7#1699973543701> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#member> <https://jcdecaux.com/stations/valence/73#1699973543702> .
+<https://jcdecaux.com/ldes.ttl> <https://w3id.org/tree#shape> <https://jcdecaux.com/shape.ttl> .
+<https://jcdecaux.com/stations/besancon/5#1699973543609> <http://purl.org/dc/terms/created> "1688844978000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/besancon/5#1699973543609> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/besancon/5> .
+<https://jcdecaux.com/stations/besancon/5#1699973543609> <http://schema.org/name> "05 - ISEMBART" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/besancon/5#1699973543609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/besancon/5#1699973543609> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "47.242756"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/besancon/5#1699973543609> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.02529"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/besancon/5#1699973543609> <https://w3id.org/gbfs#num_bikes_available> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/besancon/5#1699973543609> <https://w3id.org/gbfs#station_id> "besancon:5" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/211#1699973543610> <http://purl.org/dc/terms/created> "1688845015000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/211#1699973543610> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/bruxelles/211> .
+<https://jcdecaux.com/stations/bruxelles/211#1699973543610> <http://schema.org/name> "211 - METRO CERIA" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/211#1699973543610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/211#1699973543610> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "50.816528"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/211#1699973543610> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.290832"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/211#1699973543610> <https://w3id.org/gbfs#num_bikes_available> "10"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/211#1699973543610> <https://w3id.org/gbfs#station_id> "bruxelles:211" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/55#1699973543611> <http://purl.org/dc/terms/created> "1688845001000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/55#1699973543611> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/bruxelles/55> .
+<https://jcdecaux.com/stations/bruxelles/55#1699973543611> <http://schema.org/name> "055 - BOTANIQUE/KRUIDTUIN" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/55#1699973543611> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/55#1699973543611> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "50.853248"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/55#1699973543611> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.366188"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/55#1699973543611> <https://w3id.org/gbfs#num_bikes_available> "10"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/bruxelles/55#1699973543611> <https://w3id.org/gbfs#station_id> "bruxelles:55" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/100#1699973543612> <http://purl.org/dc/terms/created> "1688845023000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/100#1699973543612> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/dublin/100> .
+<https://jcdecaux.com/stations/dublin/100#1699973543612> <http://schema.org/name> "HEUSTON BRIDGE (SOUTH)" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/100#1699973543612> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/100#1699973543612> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.347106"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/100#1699973543612> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-6.292041"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/100#1699973543612> <https://w3id.org/gbfs#num_bikes_available> "18"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/100#1699973543612> <https://w3id.org/gbfs#station_id> "dublin:100" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/19#1699973543613> <http://purl.org/dc/terms/created> "1688845016000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/19#1699973543613> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/dublin/19> .
+<https://jcdecaux.com/stations/dublin/19#1699973543613> <http://schema.org/name> "HERBERT PLACE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/19#1699973543613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/19#1699973543613> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.334432"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/19#1699973543613> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-6.245575"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/19#1699973543613> <https://w3id.org/gbfs#num_bikes_available> "16"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/19#1699973543613> <https://w3id.org/gbfs#station_id> "dublin:19" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/24#1699973543614> <http://purl.org/dc/terms/created> "1688844981000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/24#1699973543614> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/dublin/24> .
+<https://jcdecaux.com/stations/dublin/24#1699973543614> <http://schema.org/name> "CATHAL BRUGHA STREET" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/24#1699973543614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/24#1699973543614> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.352149"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/24#1699973543614> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-6.260533"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/24#1699973543614> <https://w3id.org/gbfs#num_bikes_available> "20"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/24#1699973543614> <https://w3id.org/gbfs#station_id> "dublin:24" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/26#1699973543615> <http://purl.org/dc/terms/created> "1688845000000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/26#1699973543615> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/dublin/26> .
+<https://jcdecaux.com/stations/dublin/26#1699973543615> <http://schema.org/name> "MERRION SQUARE WEST" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/26#1699973543615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/26#1699973543615> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.339764"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/26#1699973543615> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-6.251988"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/26#1699973543615> <https://w3id.org/gbfs#num_bikes_available> "6"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/26#1699973543615> <https://w3id.org/gbfs#station_id> "dublin:26" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/33#1699973543616> <http://purl.org/dc/terms/created> "1688845010000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/33#1699973543616> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/dublin/33> .
+<https://jcdecaux.com/stations/dublin/33#1699973543616> <http://schema.org/name> "PRINCES STREET / O'CONNELL STREET" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/33#1699973543616> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/33#1699973543616> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.349013"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/33#1699973543616> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-6.260311"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/33#1699973543616> <https://w3id.org/gbfs#num_bikes_available> "8"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/33#1699973543616> <https://w3id.org/gbfs#station_id> "dublin:33" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/66#1699973543617> <http://purl.org/dc/terms/created> "1688845025000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/66#1699973543617> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/dublin/66> .
+<https://jcdecaux.com/stations/dublin/66#1699973543617> <http://schema.org/name> "NEW CENTRAL BANK" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/66#1699973543617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/66#1699973543617> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.347122"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/66#1699973543617> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-6.234749"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/66#1699973543617> <https://w3id.org/gbfs#num_bikes_available> "0"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/66#1699973543617> <https://w3id.org/gbfs#station_id> "dublin:66" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/67#1699973543618> <http://purl.org/dc/terms/created> "1688845028000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/67#1699973543618> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/dublin/67> .
+<https://jcdecaux.com/stations/dublin/67#1699973543618> <http://schema.org/name> "THE POINT" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/67#1699973543618> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/67#1699973543618> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.346867"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/67#1699973543618> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-6.230852"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/67#1699973543618> <https://w3id.org/gbfs#num_bikes_available> "9"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/67#1699973543618> <https://w3id.org/gbfs#station_id> "dublin:67" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/68#1699973543619> <http://purl.org/dc/terms/created> "1688845021000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/68#1699973543619> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/dublin/68> .
+<https://jcdecaux.com/stations/dublin/68#1699973543619> <http://schema.org/name> "HANOVER QUAY" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/68#1699973543619> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/68#1699973543619> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.344115"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/68#1699973543619> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-6.237153"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/68#1699973543619> <https://w3id.org/gbfs#num_bikes_available> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/68#1699973543619> <https://w3id.org/gbfs#station_id> "dublin:68" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/74#1699973543620> <http://purl.org/dc/terms/created> "1688844977000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/74#1699973543620> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/dublin/74> .
+<https://jcdecaux.com/stations/dublin/74#1699973543620> <http://schema.org/name> "OLIVER BOND STREET" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/74#1699973543620> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/74#1699973543620> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.343893"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/74#1699973543620> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-6.280531"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/74#1699973543620> <https://w3id.org/gbfs#num_bikes_available> "17"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/74#1699973543620> <https://w3id.org/gbfs#station_id> "dublin:74" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/91#1699973543621> <http://purl.org/dc/terms/created> "1688844999000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/91#1699973543621> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/dublin/91> .
+<https://jcdecaux.com/stations/dublin/91#1699973543621> <http://schema.org/name> "SOUTH DOCK ROAD" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/91#1699973543621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/91#1699973543621> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.341833"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/91#1699973543621> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-6.231291"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/91#1699973543621> <https://w3id.org/gbfs#num_bikes_available> "12"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/91#1699973543621> <https://w3id.org/gbfs#station_id> "dublin:91" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/93#1699973543622> <http://purl.org/dc/terms/created> "1688845000000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/93#1699973543622> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/dublin/93> .
+<https://jcdecaux.com/stations/dublin/93#1699973543622> <http://schema.org/name> "HEUSTON STATION (CENTRAL)" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/93#1699973543622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/93#1699973543622> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.346603"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/93#1699973543622> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-6.296924"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/93#1699973543622> <https://w3id.org/gbfs#num_bikes_available> "27"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/93#1699973543622> <https://w3id.org/gbfs#station_id> "dublin:93" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/96#1699973543623> <http://purl.org/dc/terms/created> "1688844972000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/96#1699973543623> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/dublin/96> .
+<https://jcdecaux.com/stations/dublin/96#1699973543623> <http://schema.org/name> "KILMAINHAM LANE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/96#1699973543623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/96#1699973543623> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "53.341805"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/96#1699973543623> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-6.305085"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/96#1699973543623> <https://w3id.org/gbfs#num_bikes_available> "17"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/dublin/96#1699973543623> <https://w3id.org/gbfs#station_id> "dublin:96" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/1#1699973543624> <http://purl.org/dc/terms/created> "1688844988000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/1#1699973543624> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/ljubljana/1> .
+<https://jcdecaux.com/stations/ljubljana/1#1699973543624> <http://schema.org/name> "PREŠERNOV TRG-PETKOVŠKOVO NABREŽJE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/1#1699973543624> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/1#1699973543624> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "46.051367"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/1#1699973543624> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "14.506542"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/1#1699973543624> <https://w3id.org/gbfs#num_bikes_available> "20"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/1#1699973543624> <https://w3id.org/gbfs#station_id> "ljubljana:1" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/14#1699973543625> <http://purl.org/dc/terms/created> "1688845020000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/14#1699973543625> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/ljubljana/14> .
+<https://jcdecaux.com/stations/ljubljana/14#1699973543625> <http://schema.org/name> "PARKIRIŠČE NUK 2-FF" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/14#1699973543625> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/14#1699973543625> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "46.046377"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/14#1699973543625> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "14.501256"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/14#1699973543625> <https://w3id.org/gbfs#num_bikes_available> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/14#1699973543625> <https://w3id.org/gbfs#station_id> "ljubljana:14" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/17#1699973543626> <http://purl.org/dc/terms/created> "1688845027000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/17#1699973543626> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/ljubljana/17> .
+<https://jcdecaux.com/stations/ljubljana/17#1699973543626> <http://schema.org/name> "ILIRSKA ULICA" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/17#1699973543626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/17#1699973543626> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "46.053144"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/17#1699973543626> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "14.513479"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/17#1699973543626> <https://w3id.org/gbfs#num_bikes_available> "0"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/17#1699973543626> <https://w3id.org/gbfs#station_id> "ljubljana:17" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/59#1699973543627> <http://purl.org/dc/terms/created> "1688844997000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/59#1699973543627> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/ljubljana/59> .
+<https://jcdecaux.com/stations/ljubljana/59#1699973543627> <http://schema.org/name> "LIDL BEŽIGRAD" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/59#1699973543627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/59#1699973543627> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "46.063797"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/59#1699973543627> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "14.506854"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/59#1699973543627> <https://w3id.org/gbfs#num_bikes_available> "9"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/59#1699973543627> <https://w3id.org/gbfs#station_id> "ljubljana:59" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/6#1699973543628> <http://purl.org/dc/terms/created> "1688845002000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/6#1699973543628> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/ljubljana/6> .
+<https://jcdecaux.com/stations/ljubljana/6#1699973543628> <http://schema.org/name> "GRUDNOVO NABREŽJE-KARLOVŠKA C." <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/6#1699973543628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/6#1699973543628> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "46.045748"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/6#1699973543628> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "14.506196"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/6#1699973543628> <https://w3id.org/gbfs#num_bikes_available> "5"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/ljubljana/6#1699973543628> <https://w3id.org/gbfs#station_id> "ljubljana:6" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/1#1699973543629> <http://purl.org/dc/terms/created> "1688845017000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/1#1699973543629> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/1> .
+<https://jcdecaux.com/stations/luxembourg/1#1699973543629> <http://schema.org/name> "#00001-LEON XIII" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/1#1699973543629> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/1#1699973543629> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.598211"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/1#1699973543629> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.137526"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/1#1699973543629> <https://w3id.org/gbfs#num_bikes_available> "11"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/1#1699973543629> <https://w3id.org/gbfs#station_id> "luxembourg:1" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/110#1699973543630> <http://purl.org/dc/terms/created> "1688845014000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/110#1699973543630> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/110> .
+<https://jcdecaux.com/stations/luxembourg/110#1699973543630> <http://schema.org/name> "#00110-ROND-POINT GASSECHTBIERG" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/110#1699973543630> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/110#1699973543630> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.627159"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/110#1699973543630> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.031948"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/110#1699973543630> <https://w3id.org/gbfs#num_bikes_available> "3"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/110#1699973543630> <https://w3id.org/gbfs#station_id> "luxembourg:110" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/111#1699973543631> <http://purl.org/dc/terms/created> "1688845023000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/111#1699973543631> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/111> .
+<https://jcdecaux.com/stations/luxembourg/111#1699973543631> <http://schema.org/name> "#00111-HALL SPORTIF NICOLAS FRANTZ" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/111#1699973543631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/111#1699973543631> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.623154"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/111#1699973543631> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.024879"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/111#1699973543631> <https://w3id.org/gbfs#num_bikes_available> "8"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/111#1699973543631> <https://w3id.org/gbfs#station_id> "luxembourg:111" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/12#1699973543632> <http://purl.org/dc/terms/created> "1688845022000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/12#1699973543632> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/12> .
+<https://jcdecaux.com/stations/luxembourg/12#1699973543632> <http://schema.org/name> "#00012-HAMILIUS" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/12#1699973543632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/12#1699973543632> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.610738"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/12#1699973543632> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.126743"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/12#1699973543632> <https://w3id.org/gbfs#num_bikes_available> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/12#1699973543632> <https://w3id.org/gbfs#station_id> "luxembourg:12" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/120#1699973543633> <http://purl.org/dc/terms/created> "1688845005000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/120#1699973543633> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/120> .
+<https://jcdecaux.com/stations/luxembourg/120#1699973543633> <http://schema.org/name> "#00120-A RILSPERT" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/120#1699973543633> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/120#1699973543633> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.60751"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/120#1699973543633> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.045842"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/120#1699973543633> <https://w3id.org/gbfs#num_bikes_available> "5"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/120#1699973543633> <https://w3id.org/gbfs#station_id> "luxembourg:120" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/14#1699973543634> <http://purl.org/dc/terms/created> "1688845007000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/14#1699973543634> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/14> .
+<https://jcdecaux.com/stations/luxembourg/14#1699973543634> <http://schema.org/name> "#00014-KNUEDLER" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/14#1699973543634> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/14#1699973543634> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.610126"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/14#1699973543634> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.132084"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/14#1699973543634> <https://w3id.org/gbfs#num_bikes_available> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/14#1699973543634> <https://w3id.org/gbfs#station_id> "luxembourg:14" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/3#1699973543635> <http://purl.org/dc/terms/created> "1688845017000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/3#1699973543635> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/3> .
+<https://jcdecaux.com/stations/luxembourg/3#1699973543635> <http://schema.org/name> "#00003-STROOSSBUERGER PLAZ" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/3#1699973543635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/3#1699973543635> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.600714"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/3#1699973543635> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.127929"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/3#1699973543635> <https://w3id.org/gbfs#num_bikes_available> "0"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/3#1699973543635> <https://w3id.org/gbfs#station_id> "luxembourg:3" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/5#1699973543636> <http://purl.org/dc/terms/created> "1688845026000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/5#1699973543636> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/5> .
+<https://jcdecaux.com/stations/luxembourg/5#1699973543636> <http://schema.org/name> "#00005-PARAISER PLAZ" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/5#1699973543636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/5#1699973543636> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.603694"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/5#1699973543636> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.130189"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/5#1699973543636> <https://w3id.org/gbfs#num_bikes_available> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/5#1699973543636> <https://w3id.org/gbfs#station_id> "luxembourg:5" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/52#1699973543637> <http://purl.org/dc/terms/created> "1688845004000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/52#1699973543637> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/52> .
+<https://jcdecaux.com/stations/luxembourg/52#1699973543637> <http://schema.org/name> "#00052-BEI DER AUER" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/52#1699973543637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/52#1699973543637> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.591404"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/52#1699973543637> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.125333"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/52#1699973543637> <https://w3id.org/gbfs#num_bikes_available> "5"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/52#1699973543637> <https://w3id.org/gbfs#station_id> "luxembourg:52" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/56#1699973543638> <http://purl.org/dc/terms/created> "1688844984000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/56#1699973543638> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/56> .
+<https://jcdecaux.com/stations/luxembourg/56#1699973543638> <http://schema.org/name> "#00056-FISCHERHAFF" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/56#1699973543638> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/56#1699973543638> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.5911"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/56#1699973543638> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.1057"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/56#1699973543638> <https://w3id.org/gbfs#num_bikes_available> "5"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/56#1699973543638> <https://w3id.org/gbfs#station_id> "luxembourg:56" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/6#1699973543639> <http://purl.org/dc/terms/created> "1688845001000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/6#1699973543639> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/6> .
+<https://jcdecaux.com/stations/luxembourg/6#1699973543639> <http://schema.org/name> "#00006-AL BRÉCK" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/6#1699973543639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/6#1699973543639> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.60481"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/6#1699973543639> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.133404"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/6#1699973543639> <https://w3id.org/gbfs#num_bikes_available> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/6#1699973543639> <https://w3id.org/gbfs#station_id> "luxembourg:6" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/60#1699973543640> <http://purl.org/dc/terms/created> "1688845023000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/60#1699973543640> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/60> .
+<https://jcdecaux.com/stations/luxembourg/60#1699973543640> <http://schema.org/name> "#00060-BOCH" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/60#1699973543640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/60#1699973543640> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.61925"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/60#1699973543640> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.10842"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/60#1699973543640> <https://w3id.org/gbfs#num_bikes_available> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/60#1699973543640> <https://w3id.org/gbfs#station_id> "luxembourg:60" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/7#1699973543641> <http://purl.org/dc/terms/created> "1688845010000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/7#1699973543641> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/7> .
+<https://jcdecaux.com/stations/luxembourg/7#1699973543641> <http://schema.org/name> "#00007-ROUSEGAERTCHEN" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/7#1699973543641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/7#1699973543641> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.605818"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/7#1699973543641> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.129062"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/7#1699973543641> <https://w3id.org/gbfs#num_bikes_available> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/7#1699973543641> <https://w3id.org/gbfs#station_id> "luxembourg:7" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/73#1699973543642> <http://purl.org/dc/terms/created> "1688844981000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/73#1699973543642> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/73> .
+<https://jcdecaux.com/stations/luxembourg/73#1699973543642> <http://schema.org/name> "#00073-JEANNE D'ARC" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/73#1699973543642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/73#1699973543642> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.59691"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/73#1699973543642> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.147957"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/73#1699973543642> <https://w3id.org/gbfs#num_bikes_available> "8"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/73#1699973543642> <https://w3id.org/gbfs#station_id> "luxembourg:73" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/74#1699973543643> <http://purl.org/dc/terms/created> "1688844986000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/74#1699973543643> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/74> .
+<https://jcdecaux.com/stations/luxembourg/74#1699973543643> <http://schema.org/name> "#00074-SAINTE CUNEGONDE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/74#1699973543643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/74#1699973543643> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.6146"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/74#1699973543643> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.14283"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/74#1699973543643> <https://w3id.org/gbfs#num_bikes_available> "12"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/74#1699973543643> <https://w3id.org/gbfs#station_id> "luxembourg:74" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/78#1699973543644> <http://purl.org/dc/terms/created> "1688844983000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/78#1699973543644> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/78> .
+<https://jcdecaux.com/stations/luxembourg/78#1699973543644> <http://schema.org/name> "#00078-ST MATHIEU" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/78#1699973543644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/78#1699973543644> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.619061"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/78#1699973543644> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.1323"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/78#1699973543644> <https://w3id.org/gbfs#num_bikes_available> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/78#1699973543644> <https://w3id.org/gbfs#station_id> "luxembourg:78" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/97#1699973543645> <http://purl.org/dc/terms/created> "1688845005000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/97#1699973543645> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/luxembourg/97> .
+<https://jcdecaux.com/stations/luxembourg/97#1699973543645> <http://schema.org/name> "#00097-HELFENT (PARKING)" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/97#1699973543645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/97#1699973543645> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "49.603644"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/97#1699973543645> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "6.077783"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/97#1699973543645> <https://w3id.org/gbfs#num_bikes_available> "11"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/luxembourg/97#1699973543645> <https://w3id.org/gbfs#station_id> "luxembourg:97" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10002#1699973543646> <http://purl.org/dc/terms/created> "1688844954000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10002#1699973543646> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/10002> .
+<https://jcdecaux.com/stations/lyon/10002#1699973543646> <http://schema.org/name> "10002 - INSA" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10002#1699973543646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10002#1699973543646> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.782222"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10002#1699973543646> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.876951"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10002#1699973543646> <https://w3id.org/gbfs#num_bikes_available> "7"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10002#1699973543646> <https://w3id.org/gbfs#station_id> "lyon:10002" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10025#1699973543647> <http://purl.org/dc/terms/created> "1688844962000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10025#1699973543647> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/10025> .
+<https://jcdecaux.com/stations/lyon/10025#1699973543647> <http://schema.org/name> "10025 - TOTEM" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10025#1699973543647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10025#1699973543647> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.763652"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10025#1699973543647> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.873158"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10025#1699973543647> <https://w3id.org/gbfs#num_bikes_available> "15"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10025#1699973543647> <https://w3id.org/gbfs#station_id> "lyon:10025" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10046#1699973543648> <http://purl.org/dc/terms/created> "1688844937000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10046#1699973543648> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/10046> .
+<https://jcdecaux.com/stations/lyon/10046#1699973543648> <http://schema.org/name> "10046 - CHARMETTES/ZOLA" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10046#1699973543648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10046#1699973543648> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.770705"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10046#1699973543648> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.867201"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10046#1699973543648> <https://w3id.org/gbfs#num_bikes_available> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10046#1699973543648> <https://w3id.org/gbfs#station_id> "lyon:10046" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10074#1699973543649> <http://purl.org/dc/terms/created> "1688844938000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10074#1699973543649> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/10074> .
+<https://jcdecaux.com/stations/lyon/10074#1699973543649> <http://schema.org/name> "10074 - ZOLA / PASSAGE REY" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10074#1699973543649> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10074#1699973543649> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.770099"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10074#1699973543649> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.876728"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10074#1699973543649> <https://w3id.org/gbfs#num_bikes_available> "19"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10074#1699973543649> <https://w3id.org/gbfs#station_id> "lyon:10074" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10086#1699973543650> <http://purl.org/dc/terms/created> "1688844934000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10086#1699973543650> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/10086> .
+<https://jcdecaux.com/stations/lyon/10086#1699973543650> <http://schema.org/name> "10086 - ANATOLE FRANCE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10086#1699973543650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10086#1699973543650> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.769837"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10086#1699973543650> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.889629"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10086#1699973543650> <https://w3id.org/gbfs#num_bikes_available> "10"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10086#1699973543650> <https://w3id.org/gbfs#station_id> "lyon:10086" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10110#1699973543651> <http://purl.org/dc/terms/created> "1688844972000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10110#1699973543651> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/10110> .
+<https://jcdecaux.com/stations/lyon/10110#1699973543651> <http://schema.org/name> "10110 - MÉMOIRE ET SOCIÉTÉ" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10110#1699973543651> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10110#1699973543651> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.75958"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10110#1699973543651> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.882739"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10110#1699973543651> <https://w3id.org/gbfs#num_bikes_available> "20"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/10110#1699973543651> <https://w3id.org/gbfs#station_id> "lyon:10110" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1022#1699973543652> <http://purl.org/dc/terms/created> "1688844928000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1022#1699973543652> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/1022> .
+<https://jcdecaux.com/stations/lyon/1022#1699973543652> <http://schema.org/name> "1022 - PLACE TOLOZAN" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1022#1699973543652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1022#1699973543652> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.769508"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1022#1699973543652> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.837495"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1022#1699973543652> <https://w3id.org/gbfs#num_bikes_available> "11"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1022#1699973543652> <https://w3id.org/gbfs#station_id> "lyon:1022" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1032#1699973543653> <http://purl.org/dc/terms/created> "1688844956000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1032#1699973543653> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/1032> .
+<https://jcdecaux.com/stations/lyon/1032#1699973543653> <http://schema.org/name> "1032 - PIZAY" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1032#1699973543653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1032#1699973543653> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.767165"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1032#1699973543653> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.836334"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1032#1699973543653> <https://w3id.org/gbfs#num_bikes_available> "11"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/1032#1699973543653> <https://w3id.org/gbfs#station_id> "lyon:1032" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3006#1699973543654> <http://purl.org/dc/terms/created> "1688844965000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3006#1699973543654> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/3006> .
+<https://jcdecaux.com/stations/lyon/3006#1699973543654> <http://schema.org/name> "3006 - VILLETTE / SAINT-ANTOINE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3006#1699973543654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3006#1699973543654> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.762876"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3006#1699973543654> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.862249"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3006#1699973543654> <https://w3id.org/gbfs#num_bikes_available> "19"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3006#1699973543654> <https://w3id.org/gbfs#station_id> "lyon:3006" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3019#1699973543655> <http://purl.org/dc/terms/created> "1688844972000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3019#1699973543655> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/3019> .
+<https://jcdecaux.com/stations/lyon/3019#1699973543655> <http://schema.org/name> "3019 - PART-DIEU / DERUELLE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3019#1699973543655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3019#1699973543655> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.76326"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3019#1699973543655> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.85749"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3019#1699973543655> <https://w3id.org/gbfs#num_bikes_available> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3019#1699973543655> <https://w3id.org/gbfs#station_id> "lyon:3019" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3094#1699973543656> <http://purl.org/dc/terms/created> "1688844956000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3094#1699973543656> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/3094> .
+<https://jcdecaux.com/stations/lyon/3094#1699973543656> <http://schema.org/name> "3094 - VILLETTE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3094#1699973543656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3094#1699973543656> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.757808"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3094#1699973543656> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.861512"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3094#1699973543656> <https://w3id.org/gbfs#num_bikes_available> "23"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3094#1699973543656> <https://w3id.org/gbfs#station_id> "lyon:3094" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3101#1699973543657> <http://purl.org/dc/terms/created> "1688844965000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3101#1699973543657> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/3101> .
+<https://jcdecaux.com/stations/lyon/3101#1699973543657> <http://schema.org/name> "3101 - PATINOIRE BARABAN" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3101#1699973543657> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3101#1699973543657> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.762055"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3101#1699973543657> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.868486"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3101#1699973543657> <https://w3id.org/gbfs#num_bikes_available> "15"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/3101#1699973543657> <https://w3id.org/gbfs#station_id> "lyon:3101" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5004#1699973543658> <http://purl.org/dc/terms/created> "1688844946000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5004#1699973543658> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/5004> .
+<https://jcdecaux.com/stations/lyon/5004#1699973543658> <http://schema.org/name> "5004 - SAINT-JEAN" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5004#1699973543658> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5004#1699973543658> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.760468"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5004#1699973543658> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.826548"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5004#1699973543658> <https://w3id.org/gbfs#num_bikes_available> "39"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5004#1699973543658> <https://w3id.org/gbfs#station_id> "lyon:5004" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5040#1699973543659> <http://purl.org/dc/terms/created> "1688844926000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5040#1699973543659> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/5040> .
+<https://jcdecaux.com/stations/lyon/5040#1699973543659> <http://schema.org/name> "5040 - PLACE CRÉPU" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5040#1699973543659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5040#1699973543659> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.757847"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5040#1699973543659> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.826103"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5040#1699973543659> <https://w3id.org/gbfs#num_bikes_available> "19"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/5040#1699973543659> <https://w3id.org/gbfs#station_id> "lyon:5040" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6002#1699973543660> <http://purl.org/dc/terms/created> "1688844929000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6002#1699973543660> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/6002> .
+<https://jcdecaux.com/stations/lyon/6002#1699973543660> <http://schema.org/name> "6002 - PORTE DES ENFANTS DU RHÔNE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6002#1699973543660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6002#1699973543660> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.777521"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6002#1699973543660> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.844922"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6002#1699973543660> <https://w3id.org/gbfs#num_bikes_available> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6002#1699973543660> <https://w3id.org/gbfs#station_id> "lyon:6002" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6007#1699973543661> <http://purl.org/dc/terms/created> "1688844972000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6007#1699973543661> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/6007> .
+<https://jcdecaux.com/stations/lyon/6007#1699973543661> <http://schema.org/name> "6007 - MASSÉNA" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6007#1699973543661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6007#1699973543661> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.769654"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6007#1699973543661> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.852366"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6007#1699973543661> <https://w3id.org/gbfs#num_bikes_available> "16"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6007#1699973543661> <https://w3id.org/gbfs#station_id> "lyon:6007" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6023#1699973543662> <http://purl.org/dc/terms/created> "1688844963000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6023#1699973543662> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/6023> .
+<https://jcdecaux.com/stations/lyon/6023#1699973543662> <http://schema.org/name> "6023 - QUAI SARRAIL" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6023#1699973543662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6023#1699973543662> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.766821"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6023#1699973543662> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.841095"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6023#1699973543662> <https://w3id.org/gbfs#num_bikes_available> "12"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6023#1699973543662> <https://w3id.org/gbfs#station_id> "lyon:6023" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6024#1699973543663> <http://purl.org/dc/terms/created> "1688844953000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6024#1699973543663> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/6024> .
+<https://jcdecaux.com/stations/lyon/6024#1699973543663> <http://schema.org/name> "6024 - TRONCHET / ANATOLE FRANCE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6024#1699973543663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6024#1699973543663> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.770743"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6024#1699973543663> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.856713"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6024#1699973543663> <https://w3id.org/gbfs#num_bikes_available> "9"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6024#1699973543663> <https://w3id.org/gbfs#station_id> "lyon:6024" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6025#1699973543664> <http://purl.org/dc/terms/created> "1688844945000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6025#1699973543664> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/6025> .
+<https://jcdecaux.com/stations/lyon/6025#1699973543664> <http://schema.org/name> "6025 - PLACE D'HELVÉTIE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6025#1699973543664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6025#1699973543664> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.773232"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6025#1699973543664> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.841949"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6025#1699973543664> <https://w3id.org/gbfs#num_bikes_available> "3"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/6025#1699973543664> <https://w3id.org/gbfs#station_id> "lyon:6025" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7031#1699973543665> <http://purl.org/dc/terms/created> "1688844977000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7031#1699973543665> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/7031> .
+<https://jcdecaux.com/stations/lyon/7031#1699973543665> <http://schema.org/name> "7031 - JAURÈS / GERLAND" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7031#1699973543665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7031#1699973543665> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.739827"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7031#1699973543665> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.840308"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7031#1699973543665> <https://w3id.org/gbfs#num_bikes_available> "6"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7031#1699973543665> <https://w3id.org/gbfs#station_id> "lyon:7031" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7055#1699973543666> <http://purl.org/dc/terms/created> "1688844967000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7055#1699973543666> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/7055> .
+<https://jcdecaux.com/stations/lyon/7055#1699973543666> <http://schema.org/name> "7055 - SERVANT / JABOULAY" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7055#1699973543666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7055#1699973543666> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.746779"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7055#1699973543666> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.842051"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7055#1699973543666> <https://w3id.org/gbfs#num_bikes_available> "10"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7055#1699973543666> <https://w3id.org/gbfs#station_id> "lyon:7055" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7061#1699973543667> <http://purl.org/dc/terms/created> "1688844965000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7061#1699973543667> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/7061> .
+<https://jcdecaux.com/stations/lyon/7061#1699973543667> <http://schema.org/name> "7061 - JAURES / UNIVERSITE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7061#1699973543667> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7061#1699973543667> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.748545"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7061#1699973543667> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.843249"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7061#1699973543667> <https://w3id.org/gbfs#num_bikes_available> "8"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/7061#1699973543667> <https://w3id.org/gbfs#station_id> "lyon:7061" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8002#1699973543668> <http://purl.org/dc/terms/created> "1688844951000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8002#1699973543668> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/8002> .
+<https://jcdecaux.com/stations/lyon/8002#1699973543668> <http://schema.org/name> "8002- PLACE AMBROISE COURTOIS" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8002#1699973543668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8002#1699973543668> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.745296"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8002#1699973543668> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.871604"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8002#1699973543668> <https://w3id.org/gbfs#num_bikes_available> "18"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8002#1699973543668> <https://w3id.org/gbfs#station_id> "lyon:8002" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8004#1699973543669> <http://purl.org/dc/terms/created> "1688844968000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8004#1699973543669> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/8004> .
+<https://jcdecaux.com/stations/lyon/8004#1699973543669> <http://schema.org/name> "8004 - MAIRIE DU 8E" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8004#1699973543669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8004#1699973543669> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.735158"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8004#1699973543669> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.872803"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8004#1699973543669> <https://w3id.org/gbfs#num_bikes_available> "8"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8004#1699973543669> <https://w3id.org/gbfs#station_id> "lyon:8004" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8020#1699973543670> <http://purl.org/dc/terms/created> "1688844956000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8020#1699973543670> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/lyon/8020> .
+<https://jcdecaux.com/stations/lyon/8020#1699973543670> <http://schema.org/name> "8020 - MOULIN A VENT" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8020#1699973543670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8020#1699973543670> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "45.729714"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8020#1699973543670> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "4.854338"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8020#1699973543670> <https://w3id.org/gbfs#num_bikes_available> "6"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/lyon/8020#1699973543670> <https://w3id.org/gbfs#station_id> "lyon:8020" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/maribor/15#1699973543671> <http://purl.org/dc/terms/created> "1688845006000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/maribor/15#1699973543671> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/maribor/15> .
+<https://jcdecaux.com/stations/maribor/15#1699973543671> <http://schema.org/name> "LJUBLJANSKA UL. - II. GIMNAZIJA" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/maribor/15#1699973543671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/maribor/15#1699973543671> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "46.548853"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/maribor/15#1699973543671> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "15.645591"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/maribor/15#1699973543671> <https://w3id.org/gbfs#num_bikes_available> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/maribor/15#1699973543671> <https://w3id.org/gbfs#station_id> "maribor:15" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/107#1699973543672> <http://purl.org/dc/terms/created> "1688844964000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/107#1699973543672> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/nantes/107> .
+<https://jcdecaux.com/stations/nantes/107#1699973543672> <http://schema.org/name> "107-MOUTONNERIE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/107#1699973543672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/107#1699973543672> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "47.219901"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/107#1699973543672> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-1.532947"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/107#1699973543672> <https://w3id.org/gbfs#num_bikes_available> "10"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/107#1699973543672> <https://w3id.org/gbfs#station_id> "nantes:107" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/31#1699973543673> <http://purl.org/dc/terms/created> "1688844965000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/31#1699973543673> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/nantes/31> .
+<https://jcdecaux.com/stations/nantes/31#1699973543673> <http://schema.org/name> "031-BOURSE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/31#1699973543673> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/31#1699973543673> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "47.2120830307532"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/31#1699973543673> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-1.55908655123987"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/31#1699973543673> <https://w3id.org/gbfs#num_bikes_available> "5"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/31#1699973543673> <https://w3id.org/gbfs#station_id> "nantes:31" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/46#1699973543674> <http://purl.org/dc/terms/created> "1688844923000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/46#1699973543674> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/nantes/46> .
+<https://jcdecaux.com/stations/nantes/46#1699973543674> <http://schema.org/name> "046-RÉPUBLIQUE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/46#1699973543674> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/46#1699973543674> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "47.2053240902952"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/46#1699973543674> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-1.55518310791618"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/46#1699973543674> <https://w3id.org/gbfs#num_bikes_available> "12"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/46#1699973543674> <https://w3id.org/gbfs#station_id> "nantes:46" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/55#1699973543675> <http://purl.org/dc/terms/created> "1688844965000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/55#1699973543675> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/nantes/55> .
+<https://jcdecaux.com/stations/nantes/55#1699973543675> <http://schema.org/name> "055-MAGELLAN" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/55#1699973543675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/55#1699973543675> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "47.2107814065594"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/55#1699973543675> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-1.54429847094521"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/55#1699973543675> <https://w3id.org/gbfs#num_bikes_available> "11"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/55#1699973543675> <https://w3id.org/gbfs#station_id> "nantes:55" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/77#1699973543676> <http://purl.org/dc/terms/created> "1688844955000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/77#1699973543676> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/nantes/77> .
+<https://jcdecaux.com/stations/nantes/77#1699973543676> <http://schema.org/name> "077-ÉCOLE D'ARCHITECTURE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/77#1699973543676> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/77#1699973543676> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "47.2076056402121"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/77#1699973543676> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-1.55753246791432"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/77#1699973543676> <https://w3id.org/gbfs#num_bikes_available> "14"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/77#1699973543676> <https://w3id.org/gbfs#station_id> "nantes:77" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/96#1699973543677> <http://purl.org/dc/terms/created> "1688844949000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/96#1699973543677> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/nantes/96> .
+<https://jcdecaux.com/stations/nantes/96#1699973543677> <http://schema.org/name> "096-TORTIÈRE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/96#1699973543677> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/96#1699973543677> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "47.2353352222086"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/96#1699973543677> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-1.54922176680989"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/96#1699973543677> <https://w3id.org/gbfs#num_bikes_available> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/nantes/96#1699973543677> <https://w3id.org/gbfs#station_id> "nantes:96" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/13#1699973543678> <http://purl.org/dc/terms/created> "1688845007000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/13#1699973543678> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/seville/13> .
+<https://jcdecaux.com/stations/seville/13#1699973543678> <http://schema.org/name> "013_CALLE FERIA" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/13#1699973543678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/13#1699973543678> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "37.403133534759"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/13#1699973543678> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-5.99191821634103"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/13#1699973543678> <https://w3id.org/gbfs#num_bikes_available> "3"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/13#1699973543678> <https://w3id.org/gbfs#station_id> "seville:13" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/31#1699973543679> <http://purl.org/dc/terms/created> "1688845027000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/31#1699973543679> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/seville/31> .
+<https://jcdecaux.com/stations/seville/31#1699973543679> <http://schema.org/name> "031_AVENIDA DE MIRAFLORES" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/31#1699973543679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/31#1699973543679> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "37.400936"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/31#1699973543679> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-5.979356"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/31#1699973543679> <https://w3id.org/gbfs#num_bikes_available> "2"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/31#1699973543679> <https://w3id.org/gbfs#station_id> "seville:31" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/60#1699973543680> <http://purl.org/dc/terms/created> "1688844990000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/60#1699973543680> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/seville/60> .
+<https://jcdecaux.com/stations/seville/60#1699973543680> <http://schema.org/name> "060_PLAZA DE LA CONCORDIA" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/60#1699973543680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/60#1699973543680> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "37.393957496312"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/60#1699973543680> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-5.99689922854279"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/60#1699973543680> <https://w3id.org/gbfs#num_bikes_available> "17"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/60#1699973543680> <https://w3id.org/gbfs#station_id> "seville:60" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/77#1699973543681> <http://purl.org/dc/terms/created> "1688844977000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/77#1699973543681> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/seville/77> .
+<https://jcdecaux.com/stations/seville/77#1699973543681> <http://schema.org/name> "077_PLAZA CHAPINA" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/77#1699973543681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/77#1699973543681> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "37.3896294751232"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/77#1699973543681> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-6.00758126354094"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/77#1699973543681> <https://w3id.org/gbfs#num_bikes_available> "7"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/seville/77#1699973543681> <https://w3id.org/gbfs#station_id> "seville:77" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/11#1699973543682> <http://purl.org/dc/terms/created> "1688844972000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/11#1699973543682> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/toulouse/11> .
+<https://jcdecaux.com/stations/toulouse/11#1699973543682> <http://schema.org/name> "00011 - PLACE DE LA DAURADE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/11#1699973543682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/11#1699973543682> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "43.601888"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/11#1699973543682> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "1.440368"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/11#1699973543682> <https://w3id.org/gbfs#num_bikes_available> "19"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/11#1699973543682> <https://w3id.org/gbfs#station_id> "toulouse:11" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/136#1699973543683> <http://purl.org/dc/terms/created> "1688844925000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/136#1699973543683> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/toulouse/136> .
+<https://jcdecaux.com/stations/toulouse/136#1699973543683> <http://schema.org/name> "00136 - FONTAINES" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/136#1699973543683> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/136#1699973543683> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "43.60202"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/136#1699973543683> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "1.414772"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/136#1699973543683> <https://w3id.org/gbfs#num_bikes_available> "4"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/136#1699973543683> <https://w3id.org/gbfs#station_id> "toulouse:136" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/149#1699973543684> <http://purl.org/dc/terms/created> "1688844938000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/149#1699973543684> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/toulouse/149> .
+<https://jcdecaux.com/stations/toulouse/149#1699973543684> <http://schema.org/name> "00149 - RAISIN - MINIMES" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/149#1699973543684> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/149#1699973543684> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "43.61539"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/149#1699973543684> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "1.448573"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/149#1699973543684> <https://w3id.org/gbfs#num_bikes_available> "13"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/149#1699973543684> <https://w3id.org/gbfs#station_id> "toulouse:149" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/166#1699973543685> <http://purl.org/dc/terms/created> "1688844924000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/166#1699973543685> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/toulouse/166> .
+<https://jcdecaux.com/stations/toulouse/166#1699973543685> <http://schema.org/name> "00166 - METRO RANGUEIL - GUYOU" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/166#1699973543685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/166#1699973543685> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "43.57421"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/166#1699973543685> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "1.462367"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/166#1699973543685> <https://w3id.org/gbfs#num_bikes_available> "16"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/166#1699973543685> <https://w3id.org/gbfs#station_id> "toulouse:166" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/168#1699973543686> <http://purl.org/dc/terms/created> "1688844961000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/168#1699973543686> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/toulouse/168> .
+<https://jcdecaux.com/stations/toulouse/168#1699973543686> <http://schema.org/name> "00168 - PLACE BILA - ROUTE D'ALBI" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/168#1699973543686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/168#1699973543686> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "43.626597"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/168#1699973543686> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "1.458835"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/168#1699973543686> <https://w3id.org/gbfs#num_bikes_available> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/168#1699973543686> <https://w3id.org/gbfs#station_id> "toulouse:168" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/19#1699973543687> <http://purl.org/dc/terms/created> "1688844972000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/19#1699973543687> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/toulouse/19> .
+<https://jcdecaux.com/stations/toulouse/19#1699973543687> <http://schema.org/name> "00019 - CARNOT - SEPT TROUBADOURS" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/19#1699973543687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/19#1699973543687> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "43.605503"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/19#1699973543687> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "1.449267"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/19#1699973543687> <https://w3id.org/gbfs#num_bikes_available> "20"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/19#1699973543687> <https://w3id.org/gbfs#station_id> "toulouse:19" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/237#1699973543688> <http://purl.org/dc/terms/created> "1688844922000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/237#1699973543688> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/toulouse/237> .
+<https://jcdecaux.com/stations/toulouse/237#1699973543688> <http://schema.org/name> "00237 - CNRS" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/237#1699973543688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/237#1699973543688> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "43.562273"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/237#1699973543688> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "1.480912"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/237#1699973543688> <https://w3id.org/gbfs#num_bikes_available> "3"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/237#1699973543688> <https://w3id.org/gbfs#station_id> "toulouse:237" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/31#1699973543689> <http://purl.org/dc/terms/created> "1688844967000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/31#1699973543689> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/toulouse/31> .
+<https://jcdecaux.com/stations/toulouse/31#1699973543689> <http://schema.org/name> "00031 - SALENQUES" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/31#1699973543689> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/31#1699973543689> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "43.607369"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/31#1699973543689> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "1.439453"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/31#1699973543689> <https://w3id.org/gbfs#num_bikes_available> "3"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/31#1699973543689> <https://w3id.org/gbfs#station_id> "toulouse:31" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/68#1699973543690> <http://purl.org/dc/terms/created> "1688844977000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/68#1699973543690> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/toulouse/68> .
+<https://jcdecaux.com/stations/toulouse/68#1699973543690> <http://schema.org/name> "00068 - METRO - PALAIS DE JUSTICE" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/68#1699973543690> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/68#1699973543690> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "43.592782"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/68#1699973543690> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "1.444726"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/68#1699973543690> <https://w3id.org/gbfs#num_bikes_available> "16"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/toulouse/68#1699973543690> <https://w3id.org/gbfs#station_id> "toulouse:68" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/146#1699973543691> <http://purl.org/dc/terms/created> "1688845002000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/146#1699973543691> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/valence/146> .
+<https://jcdecaux.com/stations/valence/146#1699973543691> <http://schema.org/name> "146_AVDA. CAMPANAR" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/146#1699973543691> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/146#1699973543691> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "39.4850781398635"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/146#1699973543691> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-0.391043151456223"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/146#1699973543691> <https://w3id.org/gbfs#num_bikes_available> "18"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/146#1699973543691> <https://w3id.org/gbfs#station_id> "valence:146" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/153#1699973543692> <http://purl.org/dc/terms/created> "1688844987000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/153#1699973543692> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/valence/153> .
+<https://jcdecaux.com/stations/valence/153#1699973543692> <http://schema.org/name> "153_C/ LLANO DE ZAIDA" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/153#1699973543692> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/153#1699973543692> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "39.483026"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/153#1699973543692> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-0.380682"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/153#1699973543692> <https://w3id.org/gbfs#num_bikes_available> "11"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/153#1699973543692> <https://w3id.org/gbfs#station_id> "valence:153" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/170#1699973543693> <http://purl.org/dc/terms/created> "1688844997000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/170#1699973543693> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/valence/170> .
+<https://jcdecaux.com/stations/valence/170#1699973543693> <http://schema.org/name> "170_PAVIA 5" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/170#1699973543693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/170#1699973543693> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "39.4829411537881"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/170#1699973543693> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-0.325424953690914"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/170#1699973543693> <https://w3id.org/gbfs#num_bikes_available> "3"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/170#1699973543693> <https://w3id.org/gbfs#station_id> "valence:170" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/183#1699973543694> <http://purl.org/dc/terms/created> "1688844986000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/183#1699973543694> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/valence/183> .
+<https://jcdecaux.com/stations/valence/183#1699973543694> <http://schema.org/name> "183 - AVDA AUSIAS MARCH" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/183#1699973543694> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/183#1699973543694> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "39.452588036275"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/183#1699973543694> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-0.372375077997377"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/183#1699973543694> <https://w3id.org/gbfs#num_bikes_available> "5"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/183#1699973543694> <https://w3id.org/gbfs#station_id> "valence:183" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/21#1699973543695> <http://purl.org/dc/terms/created> "1688844972000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/21#1699973543695> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/valence/21> .
+<https://jcdecaux.com/stations/valence/21#1699973543695> <http://schema.org/name> "021_JUAN_LLORENS_29" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/21#1699973543695> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/21#1699973543695> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "39.4723390971218"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/21#1699973543695> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-0.390305142409828"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/21#1699973543695> <https://w3id.org/gbfs#num_bikes_available> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/21#1699973543695> <https://w3id.org/gbfs#station_id> "valence:21" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/222#1699973543696> <http://purl.org/dc/terms/created> "1688845009000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/222#1699973543696> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/valence/222> .
+<https://jcdecaux.com/stations/valence/222#1699973543696> <http://schema.org/name> "222_AVDA_MAESTRO_RODRIGO_ESQ_AVDA_MANUEL_DE_FALLA" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/222#1699973543696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/222#1699973543696> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "39.4768611101047"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/222#1699973543696> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-0.397373166037864"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/222#1699973543696> <https://w3id.org/gbfs#num_bikes_available> "16"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/222#1699973543696> <https://w3id.org/gbfs#station_id> "valence:222" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/24#1699973543697> <http://purl.org/dc/terms/created> "1688845000000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/24#1699973543697> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/valence/24> .
+<https://jcdecaux.com/stations/valence/24#1699973543697> <http://schema.org/name> "024_GRAN_VIA_RAMON_Y_CAJAL" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/24#1699973543697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/24#1699973543697> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "39.4690450880029"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/24#1699973543697> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-0.384118122083548"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/24#1699973543697> <https://w3id.org/gbfs#num_bikes_available> "1"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/24#1699973543697> <https://w3id.org/gbfs#station_id> "valence:24" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/38#1699973543698> <http://purl.org/dc/terms/created> "1688845018000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/38#1699973543698> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/valence/38> .
+<https://jcdecaux.com/stations/valence/38#1699973543698> <http://schema.org/name> "38_AVDA. PERIS Y VALERO" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/38#1699973543698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/38#1699973543698> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "39.4593698286773"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/38#1699973543698> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-0.370340076012569"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/38#1699973543698> <https://w3id.org/gbfs#num_bikes_available> "8"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/38#1699973543698> <https://w3id.org/gbfs#station_id> "valence:38" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/45#1699973543699> <http://purl.org/dc/terms/created> "1688844997000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/45#1699973543699> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/valence/45> .
+<https://jcdecaux.com/stations/valence/45#1699973543699> <http://schema.org/name> "45_AVDA. GRAL. URRUTIA" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/45#1699973543699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/45#1699973543699> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "39.4537870437033"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/45#1699973543699> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-0.361946047377204"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/45#1699973543699> <https://w3id.org/gbfs#num_bikes_available> "8"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/45#1699973543699> <https://w3id.org/gbfs#station_id> "valence:45" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/68#1699973543700> <http://purl.org/dc/terms/created> "1688845013000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/68#1699973543700> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/valence/68> .
+<https://jcdecaux.com/stations/valence/68#1699973543700> <http://schema.org/name> "068_AVDA. DEL PUERTO IV" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/68#1699973543700> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/68#1699973543700> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "39.462771080523"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/68#1699973543700> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-0.341823991929563"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/68#1699973543700> <https://w3id.org/gbfs#num_bikes_available> "3"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/68#1699973543700> <https://w3id.org/gbfs#station_id> "valence:68" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/7#1699973543701> <http://purl.org/dc/terms/created> "1688844990000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/7#1699973543701> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/valence/7> .
+<https://jcdecaux.com/stations/valence/7#1699973543701> <http://schema.org/name> "007_PZA_DEL_MERCADO_TAULA_DE_CANVIS" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/7#1699973543701> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/7#1699973543701> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "39.4748401091142"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/7#1699973543701> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-0.379276110679168"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/7#1699973543701> <https://w3id.org/gbfs#num_bikes_available> "13"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/7#1699973543701> <https://w3id.org/gbfs#station_id> "valence:7" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/73#1699973543702> <http://purl.org/dc/terms/created> "1688844982000"^^<http://www.w3.org/2001/XMLSchema#dateTime> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/73#1699973543702> <http://purl.org/dc/terms/isVersionOf> <https://jcdecaux.com/stations/valence/73> .
+<https://jcdecaux.com/stations/valence/73#1699973543702> <http://schema.org/name> "073_JERONIMO MONSORIU" <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/73#1699973543702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.mobivoc.org/#BicycleParkingStation> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/73#1699973543702> <http://www.w3.org/2003/01/geo/wgs84_pos#latitude> "39.4662270918011"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/73#1699973543702> <http://www.w3.org/2003/01/geo/wgs84_pos#longitude> "-0.342969997228533"^^<http://www.w3.org/2001/XMLSchema#float> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/73#1699973543702> <https://w3id.org/gbfs#num_bikes_available> "10"^^<http://www.w3.org/2001/XMLSchema#integer> <http://jcdecaux.com/event/update> .
+<https://jcdecaux.com/stations/valence/73#1699973543702> <https://w3id.org/gbfs#station_id> "valence:73" <http://jcdecaux.com/event/update> .

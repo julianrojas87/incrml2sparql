@@ -1,0 +1,165 @@
+<http://irail.be/route/delijn/1#1696608008381> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/route/delijn/1> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#agency> <http://irail.be/agency/delijn> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#color> <http://example.com/base/991199> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#color> <http://example.com/base/BB0022> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#color> <http://example.com/base/FFCC11> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#longName> "Beerse -Turnhout" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#longName> "Dendermonde Station - Ziekenhuis - Station" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#longName> "Gent Flanders Expo - Korenmarkt" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#longName> "P+R Luchtbal - Zuid" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#longName> "Uitrit lijn 1 Stelplaats - Korenmarkt - Fl Expo" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#longName> "Waasl Shopping-Tereken-Markt-Station-Clementwijk" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#Bus> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#shortName> "1" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/000000> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/FFFFFF> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/1#1696608008381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Route> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/10#1696608008382> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/route/delijn/10> .
+<http://irail.be/route/delijn/10#1696608008382> <http://vocab.gtfs.org/terms#agency> <http://irail.be/agency/delijn> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/10#1696608008382> <http://vocab.gtfs.org/terms#color> <http://example.com/base/BB0022> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/10#1696608008382> <http://vocab.gtfs.org/terms#color> <http://example.com/base/BBDD00> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/10#1696608008382> <http://vocab.gtfs.org/terms#longName> "Genk - Tongeren" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/10#1696608008382> <http://vocab.gtfs.org/terms#longName> "Wijnegem - P+R Schoonselhof" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/10#1696608008382> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#Bus> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/10#1696608008382> <http://vocab.gtfs.org/terms#shortName> "10" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/10#1696608008382> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/000000> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/10#1696608008382> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/FFFFFF> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/10#1696608008382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Route> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/12#1696608008383> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/route/delijn/12> .
+<http://irail.be/route/delijn/12#1696608008383> <http://vocab.gtfs.org/terms#agency> <http://irail.be/agency/delijn> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/12#1696608008383> <http://vocab.gtfs.org/terms#color> <http://example.com/base/BB0022> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/12#1696608008383> <http://vocab.gtfs.org/terms#color> <http://example.com/base/BBDD00> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/12#1696608008383> <http://vocab.gtfs.org/terms#longName> "Schijnpoort - Centraal Station" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/12#1696608008383> <http://vocab.gtfs.org/terms#longName> "Tielt - Meulebeke - Oostrozebeke - Waregem" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/12#1696608008383> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#Bus> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/12#1696608008383> <http://vocab.gtfs.org/terms#shortName> "12" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/12#1696608008383> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/000000> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/12#1696608008383> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/FFFFFF> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/12#1696608008383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Route> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/15#1696608008384> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/route/delijn/15> .
+<http://irail.be/route/delijn/15#1696608008384> <http://vocab.gtfs.org/terms#agency> <http://irail.be/agency/delijn> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/15#1696608008384> <http://vocab.gtfs.org/terms#color> <http://example.com/base/444411> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/15#1696608008384> <http://vocab.gtfs.org/terms#color> <http://example.com/base/FFFFFF> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/15#1696608008384> <http://vocab.gtfs.org/terms#longName> "Gent - Drongen - Nevele - Lotenhulle" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/15#1696608008384> <http://vocab.gtfs.org/terms#longName> "P+R Boechout - Regatta" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/15#1696608008384> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#Bus> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/15#1696608008384> <http://vocab.gtfs.org/terms#shortName> "15" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/15#1696608008384> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/444411> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/15#1696608008384> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/FFFFFF> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/15#1696608008384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Route> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/2#1696608008385> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/route/delijn/2> .
+<http://irail.be/route/delijn/2#1696608008385> <http://vocab.gtfs.org/terms#agency> <http://irail.be/agency/delijn> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/2#1696608008385> <http://vocab.gtfs.org/terms#color> <http://example.com/base/229922> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/2#1696608008385> <http://vocab.gtfs.org/terms#color> <http://example.com/base/FFCC11> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/2#1696608008385> <http://vocab.gtfs.org/terms#longName> "Hoboken - P+R Merksem" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/2#1696608008385> <http://vocab.gtfs.org/terms#longName> "Melle Leeuw - Zwijnaarde" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/2#1696608008385> <http://vocab.gtfs.org/terms#longName> "Turnhout Markt - Station - Parkwijk - Den Brand" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/2#1696608008385> <http://vocab.gtfs.org/terms#longName> "Waasl Shopping-Station-H Bokstr-Tuinlaan" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/2#1696608008385> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#Bus> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/2#1696608008385> <http://vocab.gtfs.org/terms#shortName> "2" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/2#1696608008385> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/000000> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/2#1696608008385> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/FFFFFF> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/2#1696608008385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Route> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/24#1696608008386> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/route/delijn/24> .
+<http://irail.be/route/delijn/24#1696608008386> <http://vocab.gtfs.org/terms#agency> <http://irail.be/agency/delijn> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/24#1696608008386> <http://vocab.gtfs.org/terms#color> <http://example.com/base/77CCAA> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/24#1696608008386> <http://vocab.gtfs.org/terms#color> <http://example.com/base/BBDD00> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/24#1696608008386> <http://vocab.gtfs.org/terms#longName> "Silsburg - Havenhuis" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/24#1696608008386> <http://vocab.gtfs.org/terms#longName> "Tienen - Neerlinter - Ransberg - Kortenaken" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/24#1696608008386> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#Bus> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/24#1696608008386> <http://vocab.gtfs.org/terms#shortName> "24" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/24#1696608008386> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/000000> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/24#1696608008386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Route> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/3#1696608008387> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/route/delijn/3> .
+<http://irail.be/route/delijn/3#1696608008387> <http://vocab.gtfs.org/terms#agency> <http://irail.be/agency/delijn> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/3#1696608008387> <http://vocab.gtfs.org/terms#color> <http://example.com/base/8899AA> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/3#1696608008387> <http://vocab.gtfs.org/terms#color> <http://example.com/base/FFCC11> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/3#1696608008387> <http://vocab.gtfs.org/terms#longName> "Mechelen station - Muizen" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/3#1696608008387> <http://vocab.gtfs.org/terms#longName> "P+R Merksem - P+R Melsele" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/3#1696608008387> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#Bus> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/3#1696608008387> <http://vocab.gtfs.org/terms#shortName> "3" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/3#1696608008387> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/000000> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/3#1696608008387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Route> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/4#1696608008388> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/route/delijn/4> .
+<http://irail.be/route/delijn/4#1696608008388> <http://vocab.gtfs.org/terms#agency> <http://irail.be/agency/delijn> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/4#1696608008388> <http://vocab.gtfs.org/terms#color> <http://example.com/base/1199DD> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/4#1696608008388> <http://vocab.gtfs.org/terms#color> <http://example.com/base/229922> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/4#1696608008388> <http://vocab.gtfs.org/terms#longName> "Glycinenplein- Markt- Station- Nieuwkerken- Ster" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/4#1696608008388> <http://vocab.gtfs.org/terms#longName> "Hoboken - Berchem Station" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/4#1696608008388> <http://vocab.gtfs.org/terms#longName> "Station - Battel - Leest" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/4#1696608008388> <http://vocab.gtfs.org/terms#longName> "Uitrij tramlijn 4 van GBR112 via Ledeberg+Muide" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/4#1696608008388> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#Bus> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/4#1696608008388> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#LightRail> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/4#1696608008388> <http://vocab.gtfs.org/terms#shortName> "4" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/4#1696608008388> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/000000> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/4#1696608008388> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/FFFFFF> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/4#1696608008388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Route> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/5#1696608008389> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/route/delijn/5> .
+<http://irail.be/route/delijn/5#1696608008389> <http://vocab.gtfs.org/terms#agency> <http://irail.be/agency/delijn> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/5#1696608008389> <http://vocab.gtfs.org/terms#color> <http://example.com/base/771133> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/5#1696608008389> <http://vocab.gtfs.org/terms#longName> "AZ Sint-Maarten - Station - Geerdegemdries" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/5#1696608008389> <http://vocab.gtfs.org/terms#longName> "Wijnegem  - P+R Linkeroever" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/5#1696608008389> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#Bus> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/5#1696608008389> <http://vocab.gtfs.org/terms#shortName> "5" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/5#1696608008389> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/FFFFFF> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/5#1696608008389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Route> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/6#1696608008390> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/route/delijn/6> .
+<http://irail.be/route/delijn/6#1696608008390> <http://vocab.gtfs.org/terms#agency> <http://irail.be/agency/delijn> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/6#1696608008390> <http://vocab.gtfs.org/terms#color> <http://example.com/base/0099AA> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/6#1696608008390> <http://vocab.gtfs.org/terms#color> <http://example.com/base/DD0077> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/6#1696608008390> <http://vocab.gtfs.org/terms#longName> "P+R Olympiade - P+R Luchtbal" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/6#1696608008390> <http://vocab.gtfs.org/terms#longName> "Station - Industrie Noord - Station" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/6#1696608008390> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#Bus> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/6#1696608008390> <http://vocab.gtfs.org/terms#shortName> "6" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/6#1696608008390> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/000000> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/6#1696608008390> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/FFFFFF> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/6#1696608008390> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Route> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/7#1696608008391> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/route/delijn/7> .
+<http://irail.be/route/delijn/7#1696608008391> <http://vocab.gtfs.org/terms#agency> <http://irail.be/agency/delijn> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/7#1696608008391> <http://vocab.gtfs.org/terms#color> <http://example.com/base/0044BB> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/7#1696608008391> <http://vocab.gtfs.org/terms#color> <http://example.com/base/229922> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/7#1696608008391> <http://vocab.gtfs.org/terms#longName> "Bierbeek Centrum - Leuven - Heverlee - Bertem" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/7#1696608008391> <http://vocab.gtfs.org/terms#longName> "Mortsel - Eilandje" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/7#1696608008391> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#Bus> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/7#1696608008391> <http://vocab.gtfs.org/terms#shortName> "7" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/7#1696608008391> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/FFFFFF> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/7#1696608008391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Route> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/8#1696608008392> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/route/delijn/8> .
+<http://irail.be/route/delijn/8#1696608008392> <http://vocab.gtfs.org/terms#agency> <http://irail.be/agency/delijn> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/8#1696608008392> <http://vocab.gtfs.org/terms#color> <http://example.com/base/1199DD> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/8#1696608008392> <http://vocab.gtfs.org/terms#color> <http://example.com/base/FF88AA> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/8#1696608008392> <http://vocab.gtfs.org/terms#longName> "Bierbeek Centrum - Leuven - Heverlee - Bertem" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/8#1696608008392> <http://vocab.gtfs.org/terms#longName> "P+R Wommelgem - Zuid" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/8#1696608008392> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#Bus> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/8#1696608008392> <http://vocab.gtfs.org/terms#shortName> "8" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/8#1696608008392> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/000000> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/8#1696608008392> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/FFFFFF> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/8#1696608008392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Route> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/9#1696608008393> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/route/delijn/9> .
+<http://irail.be/route/delijn/9#1696608008393> <http://vocab.gtfs.org/terms#agency> <http://irail.be/agency/delijn> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/9#1696608008393> <http://vocab.gtfs.org/terms#color> <http://example.com/base/0044BB> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/9#1696608008393> <http://vocab.gtfs.org/terms#color> <http://example.com/base/EE8822> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/9#1696608008393> <http://vocab.gtfs.org/terms#longName> "Korbeek-Lo Pimberg - Leuven - Heverlee - Bertem" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/9#1696608008393> <http://vocab.gtfs.org/terms#longName> "Silsburg - P+R Linkeroever" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/9#1696608008393> <http://vocab.gtfs.org/terms#routeType> <http://vocab.gtfs.org/terms#Bus> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/9#1696608008393> <http://vocab.gtfs.org/terms#shortName> "9" <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/9#1696608008393> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/000000> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/9#1696608008393> <http://vocab.gtfs.org/terms#textColor> <http://example.com/base/FFFFFF> <http://delijn.be/event/update> .
+<http://irail.be/route/delijn/9#1696608008393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Route> <http://delijn.be/event/update> .
+<https://delijn.be/ldes.ttl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/ldes#EventStream> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/ldes#timestampPath> <http://purl.org/dc/terms/created> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/ldes#versionOfPath> <http://purl.org/dc/terms/isVersionOf> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/route/delijn/1#1696608008381> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/route/delijn/10#1696608008382> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/route/delijn/12#1696608008383> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/route/delijn/15#1696608008384> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/route/delijn/2#1696608008385> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/route/delijn/24#1696608008386> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/route/delijn/3#1696608008387> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/route/delijn/4#1696608008388> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/route/delijn/5#1696608008389> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/route/delijn/6#1696608008390> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/route/delijn/7#1696608008391> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/route/delijn/8#1696608008392> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/route/delijn/9#1696608008393> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#shape> <https://delijn.be/shape.ttl> .

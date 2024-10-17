@@ -1,0 +1,356 @@
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/ldes#EventStream> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/ldes#timestampPath> <http://purl.org/dc/terms/created> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/ldes#versionOfPath> <http://purl.org/dc/terms/isVersionOf> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000002#1698237939812> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000003#1698237939813> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000c#1698237939814> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000g#1698237939815> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000p#1698237939816> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000s#1698237939817> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000w#1698237939818> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000010#1698237939819> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000018#1698237939820> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000019#1698237939821> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001d#1698237939822> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001f#1698237939823> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001i#1698237939824> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001o#1698237939825> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001s#1698237939826> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000021#1698237939827> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000027#1698237939828> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000028#1698237939829> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002a#1698237939830> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002c#1698237939831> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002j#1698237939832> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002r#1698237939833> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002s#1698237939834> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002z#1698237939835> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000032#1698237939836> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000035#1698237939837> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000039#1698237939838> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000003a#1698237939839> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000003e#1698237939840> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000003l#1698237939841> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5000#1698237939842> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5001#1698237939843> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50010#1698237939844> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50011#1698237939845> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50012#1698237939846> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50013#1698237939847> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50014#1698237939848> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50015#1698237939849> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50016#1698237939850> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50017#1698237939851> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50018#1698237939852> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50019#1698237939853> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5002#1698237939854> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50020#1698237939855> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50021#1698237939856> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50022#1698237939857> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50023#1698237939858> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50024#1698237939859> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5003#1698237939860> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5004#1698237939861> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5005#1698237939862> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5006#1698237939863> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5007#1698237939864> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5008#1698237939865> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5009#1698237939866> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6000#1698237939867> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6001#1698237939868> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60010#1698237939869> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60011#1698237939870> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60012#1698237939871> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60013#1698237939872> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60014#1698237939873> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60015#1698237939874> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60016#1698237939875> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6002#1698237939876> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6003#1698237939877> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6004#1698237939878> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6005#1698237939879> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6006#1698237939880> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6007#1698237939881> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6008#1698237939882> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#member> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6009#1698237939883> .
+<http://transport.linkeddata.es/madrid/metro/ldes.ttl> <https://w3id.org/tree#shape> <http://transport.linkeddata.es/madrid/metro/shape.ttl> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000002#1698237939812> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000002> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000002#1698237939812> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000003#1698237939813> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000003> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000003#1698237939813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000c#1698237939814> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000c> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000c#1698237939814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000g#1698237939815> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000g> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000g#1698237939815> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000p#1698237939816> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000p> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000p#1698237939816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000s#1698237939817> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000s> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000s#1698237939817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000w#1698237939818> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000w> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000000w#1698237939818> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000010#1698237939819> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000010> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000010#1698237939819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000018#1698237939820> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000018> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000018#1698237939820> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000019#1698237939821> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000019> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000019#1698237939821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001d#1698237939822> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001d> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001d#1698237939822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001f#1698237939823> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001f> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001f#1698237939823> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001i#1698237939824> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001i> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001i#1698237939824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001o#1698237939825> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001o> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001o#1698237939825> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001s#1698237939826> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001s> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000001s#1698237939826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000021#1698237939827> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000021> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000021#1698237939827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000027#1698237939828> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000027> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000027#1698237939828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000028#1698237939829> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000028> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000028#1698237939829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002a#1698237939830> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002a> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002a#1698237939830> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002c#1698237939831> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002c> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002c#1698237939831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002j#1698237939832> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002j> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002j#1698237939832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002r#1698237939833> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002r> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002r#1698237939833> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002s#1698237939834> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002s> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002s#1698237939834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002z#1698237939835> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002z> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000002z#1698237939835> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000032#1698237939836> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000032> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000032#1698237939836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000035#1698237939837> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000035> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000035#1698237939837> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000039#1698237939838> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/00000000000000000039> .
+<http://transport.linkeddata.es/madrid/metro/trips/00000000000000000039#1698237939838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000003a#1698237939839> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000003a> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000003a#1698237939839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000003e#1698237939840> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000003e> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000003e#1698237939840> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000003l#1698237939841> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/0000000000000000003l> .
+<http://transport.linkeddata.es/madrid/metro/trips/0000000000000000003l#1698237939841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5000#1698237939842> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5000> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5000#1698237939842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5001#1698237939843> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5001> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5001#1698237939843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50010#1698237939844> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50010> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50010#1698237939844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50011#1698237939845> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50011> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50011#1698237939845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50012#1698237939846> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50012> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50012#1698237939846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50013#1698237939847> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50013> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50013#1698237939847> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50014#1698237939848> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50014> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50014#1698237939848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50015#1698237939849> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50015> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50015#1698237939849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50016#1698237939850> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50016> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50016#1698237939850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50017#1698237939851> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50017> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50017#1698237939851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50018#1698237939852> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50018> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50018#1698237939852> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50019#1698237939853> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50019> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50019#1698237939853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5002#1698237939854> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5002> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5002#1698237939854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50020#1698237939855> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50020> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50020#1698237939855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50021#1698237939856> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50021> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50021#1698237939856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50022#1698237939857> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50022> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50022#1698237939857> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50023#1698237939858> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50023> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50023#1698237939858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50024#1698237939859> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP50024> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP50024#1698237939859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5003#1698237939860> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5003> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5003#1698237939860> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5004#1698237939861> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5004> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5004#1698237939861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5005#1698237939862> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5005> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5005#1698237939862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5006#1698237939863> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5006> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5006#1698237939863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5007#1698237939864> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5007> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5007#1698237939864> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5008#1698237939865> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5008> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5008#1698237939865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5009#1698237939866> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP5009> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP5009#1698237939866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/delete> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6000#1698237939867> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6000> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6000#1698237939867> <http://vocab.gtfs.org/terms#block> "71" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6000#1698237939867> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6000#1698237939867> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6000#1698237939867> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6000#1698237939867> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6000#1698237939867> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6000#1698237939867> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6000#1698237939867> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6000#1698237939867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6001#1698237939868> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6001> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6001#1698237939868> <http://vocab.gtfs.org/terms#block> "92" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6001#1698237939868> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6001#1698237939868> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6001#1698237939868> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6001#1698237939868> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6001#1698237939868> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6001#1698237939868> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6001#1698237939868> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6001#1698237939868> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60010#1698237939869> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60010> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60010#1698237939869> <http://vocab.gtfs.org/terms#block> "68" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60010#1698237939869> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60010#1698237939869> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60010#1698237939869> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60010#1698237939869> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60010#1698237939869> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60010#1698237939869> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60010#1698237939869> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60010#1698237939869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60011#1698237939870> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60011> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60011#1698237939870> <http://vocab.gtfs.org/terms#block> "64" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60011#1698237939870> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60011#1698237939870> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60011#1698237939870> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60011#1698237939870> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60011#1698237939870> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60011#1698237939870> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60011#1698237939870> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60011#1698237939870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60012#1698237939871> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60012> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60012#1698237939871> <http://vocab.gtfs.org/terms#block> "81" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60012#1698237939871> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60012#1698237939871> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60012#1698237939871> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60012#1698237939871> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60012#1698237939871> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60012#1698237939871> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60012#1698237939871> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60012#1698237939871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60013#1698237939872> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60013> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60013#1698237939872> <http://vocab.gtfs.org/terms#block> "87" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60013#1698237939872> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60013#1698237939872> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60013#1698237939872> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60013#1698237939872> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60013#1698237939872> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60013#1698237939872> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60013#1698237939872> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60013#1698237939872> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60014#1698237939873> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60014> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60014#1698237939873> <http://vocab.gtfs.org/terms#block> "72" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60014#1698237939873> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60014#1698237939873> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60014#1698237939873> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60014#1698237939873> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60014#1698237939873> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60014#1698237939873> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60014#1698237939873> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60014#1698237939873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60015#1698237939874> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60015> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60015#1698237939874> <http://vocab.gtfs.org/terms#block> "67" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60015#1698237939874> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60015#1698237939874> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60015#1698237939874> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60015#1698237939874> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60015#1698237939874> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60015#1698237939874> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60015#1698237939874> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60015#1698237939874> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60016#1698237939875> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP60016> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60016#1698237939875> <http://vocab.gtfs.org/terms#block> "4" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60016#1698237939875> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60016#1698237939875> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60016#1698237939875> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6002> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60016#1698237939875> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6002> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60016#1698237939875> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6002> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60016#1698237939875> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60016#1698237939875> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP60016#1698237939875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6002#1698237939876> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6002> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6002#1698237939876> <http://vocab.gtfs.org/terms#block> "14" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6002#1698237939876> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6002#1698237939876> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6002#1698237939876> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6002#1698237939876> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6002#1698237939876> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6002#1698237939876> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6002#1698237939876> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6002#1698237939876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6003#1698237939877> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6003> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6003#1698237939877> <http://vocab.gtfs.org/terms#block> "99" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6003#1698237939877> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6003#1698237939877> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6003#1698237939877> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6003#1698237939877> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6003#1698237939877> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6003#1698237939877> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6003#1698237939877> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6003#1698237939877> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6004#1698237939878> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6004> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6004#1698237939878> <http://vocab.gtfs.org/terms#block> "76" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6004#1698237939878> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6004#1698237939878> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6004#1698237939878> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6004#1698237939878> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6004#1698237939878> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6004#1698237939878> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6004#1698237939878> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6004#1698237939878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6005#1698237939879> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6005> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6005#1698237939879> <http://vocab.gtfs.org/terms#block> "33" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6005#1698237939879> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6005#1698237939879> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6005#1698237939879> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6005#1698237939879> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6005#1698237939879> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6005#1698237939879> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6005#1698237939879> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6005#1698237939879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6006#1698237939880> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6006> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6006#1698237939880> <http://vocab.gtfs.org/terms#block> "8" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6006#1698237939880> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6006#1698237939880> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6006#1698237939880> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6006#1698237939880> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6006#1698237939880> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6000> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6006#1698237939880> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6006#1698237939880> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6006#1698237939880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6007#1698237939881> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6007> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6007#1698237939881> <http://vocab.gtfs.org/terms#block> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6007#1698237939881> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6007#1698237939881> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6007#1698237939881> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6007#1698237939881> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6007#1698237939881> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6007#1698237939881> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6007#1698237939881> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6007#1698237939881> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6008#1698237939882> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6008> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6008#1698237939882> <http://vocab.gtfs.org/terms#block> "72" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6008#1698237939882> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6008#1698237939882> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6008#1698237939882> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6008#1698237939882> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6008#1698237939882> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6008#1698237939882> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6008#1698237939882> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6008#1698237939882> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6009#1698237939883> <http://purl.org/dc/terms/isVersionOf> <http://transport.linkeddata.es/madrid/metro/trips/TRIP6009> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6009#1698237939883> <http://vocab.gtfs.org/terms#block> "27" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6009#1698237939883> <http://vocab.gtfs.org/terms#direction> "0" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6009#1698237939883> <http://vocab.gtfs.org/terms#headsign> "addition" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6009#1698237939883> <http://vocab.gtfs.org/terms#route> <http://transport.linkeddata.es/madrid/metro/routes/ROUTE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6009#1698237939883> <http://vocab.gtfs.org/terms#service> <http://transport.linkeddata.es/madrid/metro/services/SERVICE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6009#1698237939883> <http://vocab.gtfs.org/terms#shape> <http://transport.linkeddata.es/madrid/metro/shape/SHAPE6001> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6009#1698237939883> <http://vocab.gtfs.org/terms#shortName> "add" <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6009#1698237939883> <http://vocab.gtfs.org/terms#wheelchairAccessible> <http://vocab.gtfs.org/terms#WheelchairAccessible> <http://transport.linkeddata.es/madrid/event/create> .
+<http://transport.linkeddata.es/madrid/metro/trips/TRIP6009#1698237939883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://transport.linkeddata.es/madrid/event/create> .

@@ -1,0 +1,1154 @@
+<https://delijn.be/ldes.ttl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/ldes#EventStream> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/ldes#timestampPath> <http://purl.org/dc/terms/created> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/ldes#versionOfPath> <http://purl.org/dc/terms/isVersionOf> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68510-20230706#1696608010286> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68510-20230707#1696608010287> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68510-20230727#1696608010288> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68510-20230728#1696608010289> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68536-20230706#1696608010290> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68536-20230707#1696608010291> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68536-20230727#1696608010292> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68536-20230728#1696608010293> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68537-20230706#1696608010294> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68537-20230707#1696608010295> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68537-20230727#1696608010296> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68537-20230728#1696608010297> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68538-20230706#1696608010298> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68538-20230727#1696608010299> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68568-20230728#1696608010300> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68569-20230707#1696608010301> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68571-20230707#1696608010302> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68572-20230728#1696608010303> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68573-20230707#1696608010304> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68574-20230728#1696608010305> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68575-20230707#1696608010306> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68577-20230706#1696608010307> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68578-20230727#1696608010308> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68579-20230706#1696608010309> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68580-20230727#1696608010310> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68581-20230706#1696608010311> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68582-20230727#1696608010312> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68583-20230706#1696608010313> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68584-20230727#1696608010314> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68585-20230706#1696608010315> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68586-20230727#1696608010316> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68587-20230706#1696608010317> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68619-20230707#1696608010318> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68619-20230728#1696608010319> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68621-20230706#1696608010320> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68621-20230707#1696608010321> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68621-20230727#1696608010322> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68621-20230728#1696608010323> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68622-20230706#1696608010324> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68622-20230707#1696608010325> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68622-20230727#1696608010326> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68622-20230728#1696608010327> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68623-20230707#1696608010328> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68623-20230728#1696608010329> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68624-20230706#1696608010330> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68624-20230727#1696608010331> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68625-20230706#1696608010332> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68625-20230707#1696608010333> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68625-20230727#1696608010334> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68625-20230728#1696608010335> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68626-20230706#1696608010336> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68626-20230727#1696608010337> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68653-20230706#1696608010338> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68653-20230707#1696608010339> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68653-20230727#1696608010340> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68653-20230728#1696608010341> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68678-20230707#1696608010342> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68678-20230728#1696608010343> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68681-20230706#1696608010344> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68681-20230707#1696608010345> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68681-20230727#1696608010346> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68681-20230728#1696608010347> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68683-20230706#1696608010348> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68683-20230727#1696608010349> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68685-20230706#1696608010350> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68685-20230707#1696608010351> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68685-20230727#1696608010352> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68685-20230728#1696608010353> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68687-20230706#1696608010354> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68687-20230727#1696608010355> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68724-20230706#1696608010356> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68724-20230707#1696608010357> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68724-20230727#1696608010358> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68724-20230728#1696608010359> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68726-20230706#1696608010360> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68726-20230707#1696608010361> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68726-20230727#1696608010362> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68726-20230728#1696608010363> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68749-20230707#1696608010364> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68749-20230728#1696608010365> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68750-20230706#1696608010366> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68750-20230727#1696608010367> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68752-20230706#1696608010368> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68752-20230707#1696608010369> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68752-20230727#1696608010370> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68752-20230728#1696608010371> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68787-20230707#1696608010372> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68787-20230728#1696608010373> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68788-20230706#1696608010374> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68788-20230707#1696608010375> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68788-20230727#1696608010376> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68788-20230728#1696608010377> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68789-20230706#1696608010378> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68789-20230727#1696608010379> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68790-20230706#1696608010380> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68790-20230707#1696608010381> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68790-20230727#1696608010382> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68790-20230728#1696608010383> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68791-20230706#1696608010384> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68791-20230727#1696608010385> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68813-20230706#1696608010386> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68813-20230707#1696608010387> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68814-20230727#1696608010388> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68814-20230728#1696608010389> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68815-20230706#1696608010390> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68815-20230707#1696608010391> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68816-20230727#1696608010392> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68816-20230728#1696608010393> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68839-20230707#1696608010394> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68839-20230728#1696608010395> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68840-20230707#1696608010396> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68840-20230728#1696608010397> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68844-20230706#1696608010398> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68844-20230727#1696608010399> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68845-20230706#1696608010400> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68845-20230727#1696608010401> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68875-20230706#1696608010402> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68875-20230707#1696608010403> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68875-20230727#1696608010404> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68875-20230728#1696608010405> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68885-20230706#1696608010406> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68885-20230707#1696608010407> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68885-20230727#1696608010408> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68885-20230728#1696608010409> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68908-20230707#1696608010410> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68909-20230728#1696608010411> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68913-20230706#1696608010412> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68913-20230707#1696608010413> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68914-20230727#1696608010414> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68914-20230728#1696608010415> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68916-20230706#1696608010416> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68916-20230707#1696608010417> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68917-20230727#1696608010418> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68917-20230728#1696608010419> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68931-20230707#1696608010420> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68931-20230728#1696608010421> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68932-20230706#1696608010422> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68932-20230727#1696608010423> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68933-20230706#1696608010424> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68933-20230707#1696608010425> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68933-20230727#1696608010426> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68933-20230728#1696608010427> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68943-20230706#1696608010428> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68943-20230707#1696608010429> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68943-20230727#1696608010430> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68943-20230728#1696608010431> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68956-20230707#1696608010432> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68956-20230728#1696608010433> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68957-20230707#1696608010434> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68957-20230728#1696608010435> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68958-20230706#1696608010436> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68958-20230727#1696608010437> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68959-20230706#1696608010438> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68959-20230727#1696608010439> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68968-20230706#1696608010440> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68968-20230707#1696608010441> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68968-20230727#1696608010442> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68968-20230728#1696608010443> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68980-20230707#1696608010444> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68980-20230728#1696608010445> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68981-20230706#1696608010446> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68981-20230727#1696608010447> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68982-20230706#1696608010448> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68982-20230707#1696608010449> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68982-20230727#1696608010450> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68982-20230728#1696608010451> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68989-20230706#1696608010452> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68989-20230707#1696608010453> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68989-20230727#1696608010454> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68989-20230728#1696608010455> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68998-20230706#1696608010456> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68998-20230707#1696608010457> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68998-20230727#1696608010458> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/68998-20230728#1696608010459> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69013-20230706#1696608010460> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69013-20230707#1696608010461> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69013-20230727#1696608010462> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69013-20230728#1696608010463> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69038-20230707#1696608010464> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69038-20230728#1696608010465> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69039-20230707#1696608010466> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69039-20230728#1696608010467> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69043-20230706#1696608010468> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69043-20230727#1696608010469> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69045-20230706#1696608010470> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69045-20230727#1696608010471> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69056-20230706#1696608010472> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69056-20230707#1696608010473> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69056-20230727#1696608010474> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69056-20230728#1696608010475> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69079-20230707#1696608010476> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69079-20230728#1696608010477> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69080-20230707#1696608010478> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69080-20230728#1696608010479> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69081-20230706#1696608010480> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69081-20230727#1696608010481> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69099-20230706#1696608010482> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69099-20230707#1696608010483> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69099-20230727#1696608010484> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69099-20230728#1696608010485> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69104-20230706#1696608010486> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69104-20230707#1696608010487> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69104-20230727#1696608010488> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69104-20230728#1696608010489> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69114-20230707#1696608010490> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69114-20230728#1696608010491> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69115-20230707#1696608010492> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69115-20230728#1696608010493> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69121-20230706#1696608010494> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69121-20230727#1696608010495> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69132-20230706#1696608010496> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69132-20230707#1696608010497> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69132-20230727#1696608010498> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69132-20230728#1696608010499> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69152-20230706#1696608010500> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69152-20230707#1696608010501> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69152-20230727#1696608010502> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69152-20230728#1696608010503> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69169-20230706#1696608010504> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69169-20230707#1696608010505> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69169-20230727#1696608010506> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69169-20230728#1696608010507> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69179-20230706#1696608010508> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69179-20230707#1696608010509> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69179-20230727#1696608010510> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69179-20230728#1696608010511> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69202-20230707#1696608010512> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69202-20230728#1696608010513> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69205-20230706#1696608010514> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69205-20230707#1696608010515> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69205-20230727#1696608010516> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69205-20230728#1696608010517> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69218-20230706#1696608010518> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69218-20230707#1696608010519> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69218-20230727#1696608010520> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69218-20230728#1696608010521> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69234-20230706#1696608010522> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69234-20230707#1696608010523> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69234-20230727#1696608010524> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69234-20230728#1696608010525> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69244-20230706#1696608010526> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69244-20230707#1696608010527> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69244-20230727#1696608010528> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69244-20230728#1696608010529> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69247-20230706#1696608010530> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69247-20230707#1696608010531> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69247-20230727#1696608010532> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69247-20230728#1696608010533> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69269-20230706#1696608010534> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69269-20230707#1696608010535> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69269-20230727#1696608010536> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69269-20230728#1696608010537> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69291-20230707#1696608010538> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69291-20230728#1696608010539> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69294-20230706#1696608010540> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69294-20230727#1696608010541> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69297-20230706#1696608010542> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69297-20230707#1696608010543> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69297-20230727#1696608010544> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69297-20230728#1696608010545> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69308-20230706#1696608010546> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69308-20230707#1696608010547> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69308-20230727#1696608010548> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69308-20230728#1696608010549> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69319-20230706#1696608010550> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69319-20230707#1696608010551> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69319-20230727#1696608010552> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69319-20230728#1696608010553> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69327-20230706#1696608010554> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69327-20230707#1696608010555> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69327-20230727#1696608010556> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69327-20230728#1696608010557> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69344-20230706#1696608010558> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69344-20230707#1696608010559> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69344-20230727#1696608010560> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69344-20230728#1696608010561> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69360-20230706#1696608010562> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69360-20230707#1696608010563> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69360-20230727#1696608010564> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69360-20230728#1696608010565> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69371-20230706#1696608010566> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69371-20230707#1696608010567> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69371-20230727#1696608010568> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69371-20230728#1696608010569> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69381-20230706#1696608010570> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69381-20230707#1696608010571> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69381-20230727#1696608010572> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#member> <https://irail.be/calendar/delijn/69381-20230728#1696608010573> .
+<https://delijn.be/ldes.ttl> <https://w3id.org/tree#shape> <https://delijn.be/shape.ttl> .
+<https://irail.be/calendar/delijn/68510-20230706#1696608010286> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68510-20230706> .
+<https://irail.be/calendar/delijn/68510-20230706#1696608010286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68510-20230707#1696608010287> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68510-20230707> .
+<https://irail.be/calendar/delijn/68510-20230707#1696608010287> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68510-20230727#1696608010288> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68510-20230727#1696608010288> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68510-20230727> .
+<https://irail.be/calendar/delijn/68510-20230727#1696608010288> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68510-20230727#1696608010288> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68510-20230728#1696608010289> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68510-20230728#1696608010289> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68510-20230728> .
+<https://irail.be/calendar/delijn/68510-20230728#1696608010289> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68510-20230728#1696608010289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68536-20230706#1696608010290> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68536-20230706> .
+<https://irail.be/calendar/delijn/68536-20230706#1696608010290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68536-20230707#1696608010291> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68536-20230707> .
+<https://irail.be/calendar/delijn/68536-20230707#1696608010291> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68536-20230727#1696608010292> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68536-20230727#1696608010292> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68536-20230727> .
+<https://irail.be/calendar/delijn/68536-20230727#1696608010292> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68536-20230727#1696608010292> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68536-20230728#1696608010293> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68536-20230728#1696608010293> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68536-20230728> .
+<https://irail.be/calendar/delijn/68536-20230728#1696608010293> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68536-20230728#1696608010293> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68537-20230706#1696608010294> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68537-20230706> .
+<https://irail.be/calendar/delijn/68537-20230706#1696608010294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68537-20230707#1696608010295> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68537-20230707> .
+<https://irail.be/calendar/delijn/68537-20230707#1696608010295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68537-20230727#1696608010296> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68537-20230727#1696608010296> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68537-20230727> .
+<https://irail.be/calendar/delijn/68537-20230727#1696608010296> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68537-20230727#1696608010296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68537-20230728#1696608010297> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68537-20230728#1696608010297> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68537-20230728> .
+<https://irail.be/calendar/delijn/68537-20230728#1696608010297> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68537-20230728#1696608010297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68538-20230706#1696608010298> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68538-20230706> .
+<https://irail.be/calendar/delijn/68538-20230706#1696608010298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68538-20230727#1696608010299> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68538-20230727#1696608010299> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68538-20230727> .
+<https://irail.be/calendar/delijn/68538-20230727#1696608010299> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68538-20230727#1696608010299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68568-20230728#1696608010300> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68568-20230728#1696608010300> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68568-20230728> .
+<https://irail.be/calendar/delijn/68568-20230728#1696608010300> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68568-20230728#1696608010300> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68569-20230707#1696608010301> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68569-20230707> .
+<https://irail.be/calendar/delijn/68569-20230707#1696608010301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68571-20230707#1696608010302> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68571-20230707> .
+<https://irail.be/calendar/delijn/68571-20230707#1696608010302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68572-20230728#1696608010303> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68572-20230728#1696608010303> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68572-20230728> .
+<https://irail.be/calendar/delijn/68572-20230728#1696608010303> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68572-20230728#1696608010303> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68573-20230707#1696608010304> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68573-20230707> .
+<https://irail.be/calendar/delijn/68573-20230707#1696608010304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68574-20230728#1696608010305> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68574-20230728#1696608010305> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68574-20230728> .
+<https://irail.be/calendar/delijn/68574-20230728#1696608010305> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68574-20230728#1696608010305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68575-20230707#1696608010306> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68575-20230707> .
+<https://irail.be/calendar/delijn/68575-20230707#1696608010306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68577-20230706#1696608010307> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68577-20230706> .
+<https://irail.be/calendar/delijn/68577-20230706#1696608010307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68578-20230727#1696608010308> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68578-20230727#1696608010308> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68578-20230727> .
+<https://irail.be/calendar/delijn/68578-20230727#1696608010308> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68578-20230727#1696608010308> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68579-20230706#1696608010309> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68579-20230706> .
+<https://irail.be/calendar/delijn/68579-20230706#1696608010309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68580-20230727#1696608010310> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68580-20230727#1696608010310> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68580-20230727> .
+<https://irail.be/calendar/delijn/68580-20230727#1696608010310> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68580-20230727#1696608010310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68581-20230706#1696608010311> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68581-20230706> .
+<https://irail.be/calendar/delijn/68581-20230706#1696608010311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68582-20230727#1696608010312> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68582-20230727#1696608010312> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68582-20230727> .
+<https://irail.be/calendar/delijn/68582-20230727#1696608010312> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68582-20230727#1696608010312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68583-20230706#1696608010313> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68583-20230706> .
+<https://irail.be/calendar/delijn/68583-20230706#1696608010313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68584-20230727#1696608010314> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68584-20230727#1696608010314> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68584-20230727> .
+<https://irail.be/calendar/delijn/68584-20230727#1696608010314> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68584-20230727#1696608010314> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68585-20230706#1696608010315> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68585-20230706> .
+<https://irail.be/calendar/delijn/68585-20230706#1696608010315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68586-20230727#1696608010316> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68586-20230727#1696608010316> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68586-20230727> .
+<https://irail.be/calendar/delijn/68586-20230727#1696608010316> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68586-20230727#1696608010316> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68587-20230706#1696608010317> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68587-20230706> .
+<https://irail.be/calendar/delijn/68587-20230706#1696608010317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68619-20230707#1696608010318> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68619-20230707> .
+<https://irail.be/calendar/delijn/68619-20230707#1696608010318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68619-20230728#1696608010319> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68619-20230728#1696608010319> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68619-20230728> .
+<https://irail.be/calendar/delijn/68619-20230728#1696608010319> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68619-20230728#1696608010319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68621-20230706#1696608010320> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68621-20230706> .
+<https://irail.be/calendar/delijn/68621-20230706#1696608010320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68621-20230707#1696608010321> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68621-20230707> .
+<https://irail.be/calendar/delijn/68621-20230707#1696608010321> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68621-20230727#1696608010322> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68621-20230727#1696608010322> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68621-20230727> .
+<https://irail.be/calendar/delijn/68621-20230727#1696608010322> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68621-20230727#1696608010322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68621-20230728#1696608010323> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68621-20230728#1696608010323> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68621-20230728> .
+<https://irail.be/calendar/delijn/68621-20230728#1696608010323> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68621-20230728#1696608010323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68622-20230706#1696608010324> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68622-20230706> .
+<https://irail.be/calendar/delijn/68622-20230706#1696608010324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68622-20230707#1696608010325> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68622-20230707> .
+<https://irail.be/calendar/delijn/68622-20230707#1696608010325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68622-20230727#1696608010326> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68622-20230727#1696608010326> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68622-20230727> .
+<https://irail.be/calendar/delijn/68622-20230727#1696608010326> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68622-20230727#1696608010326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68622-20230728#1696608010327> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68622-20230728#1696608010327> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68622-20230728> .
+<https://irail.be/calendar/delijn/68622-20230728#1696608010327> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68622-20230728#1696608010327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68623-20230707#1696608010328> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68623-20230707> .
+<https://irail.be/calendar/delijn/68623-20230707#1696608010328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68623-20230728#1696608010329> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68623-20230728#1696608010329> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68623-20230728> .
+<https://irail.be/calendar/delijn/68623-20230728#1696608010329> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68623-20230728#1696608010329> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68624-20230706#1696608010330> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68624-20230706> .
+<https://irail.be/calendar/delijn/68624-20230706#1696608010330> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68624-20230727#1696608010331> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68624-20230727#1696608010331> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68624-20230727> .
+<https://irail.be/calendar/delijn/68624-20230727#1696608010331> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68624-20230727#1696608010331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68625-20230706#1696608010332> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68625-20230706> .
+<https://irail.be/calendar/delijn/68625-20230706#1696608010332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68625-20230707#1696608010333> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68625-20230707> .
+<https://irail.be/calendar/delijn/68625-20230707#1696608010333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68625-20230727#1696608010334> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68625-20230727#1696608010334> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68625-20230727> .
+<https://irail.be/calendar/delijn/68625-20230727#1696608010334> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68625-20230727#1696608010334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68625-20230728#1696608010335> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68625-20230728#1696608010335> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68625-20230728> .
+<https://irail.be/calendar/delijn/68625-20230728#1696608010335> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68625-20230728#1696608010335> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68626-20230706#1696608010336> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68626-20230706> .
+<https://irail.be/calendar/delijn/68626-20230706#1696608010336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68626-20230727#1696608010337> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68626-20230727#1696608010337> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68626-20230727> .
+<https://irail.be/calendar/delijn/68626-20230727#1696608010337> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68626-20230727#1696608010337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68653-20230706#1696608010338> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68653-20230706> .
+<https://irail.be/calendar/delijn/68653-20230706#1696608010338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68653-20230707#1696608010339> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68653-20230707> .
+<https://irail.be/calendar/delijn/68653-20230707#1696608010339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68653-20230727#1696608010340> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68653-20230727#1696608010340> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68653-20230727> .
+<https://irail.be/calendar/delijn/68653-20230727#1696608010340> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68653-20230727#1696608010340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68653-20230728#1696608010341> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68653-20230728#1696608010341> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68653-20230728> .
+<https://irail.be/calendar/delijn/68653-20230728#1696608010341> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68653-20230728#1696608010341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68678-20230707#1696608010342> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68678-20230707> .
+<https://irail.be/calendar/delijn/68678-20230707#1696608010342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68678-20230728#1696608010343> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68678-20230728#1696608010343> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68678-20230728> .
+<https://irail.be/calendar/delijn/68678-20230728#1696608010343> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68678-20230728#1696608010343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68681-20230706#1696608010344> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68681-20230706> .
+<https://irail.be/calendar/delijn/68681-20230706#1696608010344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68681-20230707#1696608010345> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68681-20230707> .
+<https://irail.be/calendar/delijn/68681-20230707#1696608010345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68681-20230727#1696608010346> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68681-20230727#1696608010346> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68681-20230727> .
+<https://irail.be/calendar/delijn/68681-20230727#1696608010346> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68681-20230727#1696608010346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68681-20230728#1696608010347> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68681-20230728#1696608010347> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68681-20230728> .
+<https://irail.be/calendar/delijn/68681-20230728#1696608010347> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68681-20230728#1696608010347> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68683-20230706#1696608010348> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68683-20230706> .
+<https://irail.be/calendar/delijn/68683-20230706#1696608010348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68683-20230727#1696608010349> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68683-20230727#1696608010349> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68683-20230727> .
+<https://irail.be/calendar/delijn/68683-20230727#1696608010349> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68683-20230727#1696608010349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68685-20230706#1696608010350> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68685-20230706> .
+<https://irail.be/calendar/delijn/68685-20230706#1696608010350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68685-20230707#1696608010351> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68685-20230707> .
+<https://irail.be/calendar/delijn/68685-20230707#1696608010351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68685-20230727#1696608010352> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68685-20230727#1696608010352> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68685-20230727> .
+<https://irail.be/calendar/delijn/68685-20230727#1696608010352> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68685-20230727#1696608010352> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68685-20230728#1696608010353> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68685-20230728#1696608010353> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68685-20230728> .
+<https://irail.be/calendar/delijn/68685-20230728#1696608010353> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68685-20230728#1696608010353> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68687-20230706#1696608010354> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68687-20230706> .
+<https://irail.be/calendar/delijn/68687-20230706#1696608010354> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68687-20230727#1696608010355> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68687-20230727#1696608010355> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68687-20230727> .
+<https://irail.be/calendar/delijn/68687-20230727#1696608010355> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68687-20230727#1696608010355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68724-20230706#1696608010356> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68724-20230706> .
+<https://irail.be/calendar/delijn/68724-20230706#1696608010356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68724-20230707#1696608010357> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68724-20230707> .
+<https://irail.be/calendar/delijn/68724-20230707#1696608010357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68724-20230727#1696608010358> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68724-20230727#1696608010358> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68724-20230727> .
+<https://irail.be/calendar/delijn/68724-20230727#1696608010358> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68724-20230727#1696608010358> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68724-20230728#1696608010359> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68724-20230728#1696608010359> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68724-20230728> .
+<https://irail.be/calendar/delijn/68724-20230728#1696608010359> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68724-20230728#1696608010359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68726-20230706#1696608010360> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68726-20230706> .
+<https://irail.be/calendar/delijn/68726-20230706#1696608010360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68726-20230707#1696608010361> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68726-20230707> .
+<https://irail.be/calendar/delijn/68726-20230707#1696608010361> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68726-20230727#1696608010362> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68726-20230727#1696608010362> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68726-20230727> .
+<https://irail.be/calendar/delijn/68726-20230727#1696608010362> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68726-20230727#1696608010362> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68726-20230728#1696608010363> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68726-20230728#1696608010363> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68726-20230728> .
+<https://irail.be/calendar/delijn/68726-20230728#1696608010363> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68726-20230728#1696608010363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68749-20230707#1696608010364> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68749-20230707> .
+<https://irail.be/calendar/delijn/68749-20230707#1696608010364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68749-20230728#1696608010365> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68749-20230728#1696608010365> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68749-20230728> .
+<https://irail.be/calendar/delijn/68749-20230728#1696608010365> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68749-20230728#1696608010365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68750-20230706#1696608010366> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68750-20230706> .
+<https://irail.be/calendar/delijn/68750-20230706#1696608010366> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68750-20230727#1696608010367> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68750-20230727#1696608010367> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68750-20230727> .
+<https://irail.be/calendar/delijn/68750-20230727#1696608010367> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68750-20230727#1696608010367> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68752-20230706#1696608010368> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68752-20230706> .
+<https://irail.be/calendar/delijn/68752-20230706#1696608010368> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68752-20230707#1696608010369> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68752-20230707> .
+<https://irail.be/calendar/delijn/68752-20230707#1696608010369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68752-20230727#1696608010370> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68752-20230727#1696608010370> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68752-20230727> .
+<https://irail.be/calendar/delijn/68752-20230727#1696608010370> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68752-20230727#1696608010370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68752-20230728#1696608010371> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68752-20230728#1696608010371> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68752-20230728> .
+<https://irail.be/calendar/delijn/68752-20230728#1696608010371> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68752-20230728#1696608010371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68787-20230707#1696608010372> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68787-20230707> .
+<https://irail.be/calendar/delijn/68787-20230707#1696608010372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68787-20230728#1696608010373> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68787-20230728#1696608010373> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68787-20230728> .
+<https://irail.be/calendar/delijn/68787-20230728#1696608010373> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68787-20230728#1696608010373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68788-20230706#1696608010374> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68788-20230706> .
+<https://irail.be/calendar/delijn/68788-20230706#1696608010374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68788-20230707#1696608010375> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68788-20230707> .
+<https://irail.be/calendar/delijn/68788-20230707#1696608010375> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68788-20230727#1696608010376> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68788-20230727#1696608010376> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68788-20230727> .
+<https://irail.be/calendar/delijn/68788-20230727#1696608010376> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68788-20230727#1696608010376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68788-20230728#1696608010377> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68788-20230728#1696608010377> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68788-20230728> .
+<https://irail.be/calendar/delijn/68788-20230728#1696608010377> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68788-20230728#1696608010377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68789-20230706#1696608010378> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68789-20230706> .
+<https://irail.be/calendar/delijn/68789-20230706#1696608010378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68789-20230727#1696608010379> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68789-20230727#1696608010379> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68789-20230727> .
+<https://irail.be/calendar/delijn/68789-20230727#1696608010379> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68789-20230727#1696608010379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68790-20230706#1696608010380> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68790-20230706> .
+<https://irail.be/calendar/delijn/68790-20230706#1696608010380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68790-20230707#1696608010381> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68790-20230707> .
+<https://irail.be/calendar/delijn/68790-20230707#1696608010381> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68790-20230727#1696608010382> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68790-20230727#1696608010382> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68790-20230727> .
+<https://irail.be/calendar/delijn/68790-20230727#1696608010382> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68790-20230727#1696608010382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68790-20230728#1696608010383> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68790-20230728#1696608010383> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68790-20230728> .
+<https://irail.be/calendar/delijn/68790-20230728#1696608010383> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68790-20230728#1696608010383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68791-20230706#1696608010384> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68791-20230706> .
+<https://irail.be/calendar/delijn/68791-20230706#1696608010384> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68791-20230727#1696608010385> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68791-20230727#1696608010385> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68791-20230727> .
+<https://irail.be/calendar/delijn/68791-20230727#1696608010385> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68791-20230727#1696608010385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68813-20230706#1696608010386> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68813-20230706> .
+<https://irail.be/calendar/delijn/68813-20230706#1696608010386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68813-20230707#1696608010387> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68813-20230707> .
+<https://irail.be/calendar/delijn/68813-20230707#1696608010387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68814-20230727#1696608010388> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68814-20230727#1696608010388> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68814-20230727> .
+<https://irail.be/calendar/delijn/68814-20230727#1696608010388> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68814-20230727#1696608010388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68814-20230728#1696608010389> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68814-20230728#1696608010389> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68814-20230728> .
+<https://irail.be/calendar/delijn/68814-20230728#1696608010389> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68814-20230728#1696608010389> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68815-20230706#1696608010390> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68815-20230706> .
+<https://irail.be/calendar/delijn/68815-20230706#1696608010390> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68815-20230707#1696608010391> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68815-20230707> .
+<https://irail.be/calendar/delijn/68815-20230707#1696608010391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68816-20230727#1696608010392> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68816-20230727#1696608010392> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68816-20230727> .
+<https://irail.be/calendar/delijn/68816-20230727#1696608010392> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68816-20230727#1696608010392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68816-20230728#1696608010393> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68816-20230728#1696608010393> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68816-20230728> .
+<https://irail.be/calendar/delijn/68816-20230728#1696608010393> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68816-20230728#1696608010393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68839-20230707#1696608010394> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68839-20230707> .
+<https://irail.be/calendar/delijn/68839-20230707#1696608010394> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68839-20230728#1696608010395> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68839-20230728#1696608010395> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68839-20230728> .
+<https://irail.be/calendar/delijn/68839-20230728#1696608010395> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68839-20230728#1696608010395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68840-20230707#1696608010396> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68840-20230707> .
+<https://irail.be/calendar/delijn/68840-20230707#1696608010396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68840-20230728#1696608010397> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68840-20230728#1696608010397> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68840-20230728> .
+<https://irail.be/calendar/delijn/68840-20230728#1696608010397> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68840-20230728#1696608010397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68844-20230706#1696608010398> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68844-20230706> .
+<https://irail.be/calendar/delijn/68844-20230706#1696608010398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68844-20230727#1696608010399> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68844-20230727#1696608010399> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68844-20230727> .
+<https://irail.be/calendar/delijn/68844-20230727#1696608010399> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68844-20230727#1696608010399> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68845-20230706#1696608010400> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68845-20230706> .
+<https://irail.be/calendar/delijn/68845-20230706#1696608010400> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68845-20230727#1696608010401> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68845-20230727#1696608010401> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68845-20230727> .
+<https://irail.be/calendar/delijn/68845-20230727#1696608010401> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68845-20230727#1696608010401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68875-20230706#1696608010402> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68875-20230706> .
+<https://irail.be/calendar/delijn/68875-20230706#1696608010402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68875-20230707#1696608010403> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68875-20230707> .
+<https://irail.be/calendar/delijn/68875-20230707#1696608010403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68875-20230727#1696608010404> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68875-20230727#1696608010404> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68875-20230727> .
+<https://irail.be/calendar/delijn/68875-20230727#1696608010404> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68875-20230727#1696608010404> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68875-20230728#1696608010405> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68875-20230728#1696608010405> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68875-20230728> .
+<https://irail.be/calendar/delijn/68875-20230728#1696608010405> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68875-20230728#1696608010405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68885-20230706#1696608010406> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68885-20230706> .
+<https://irail.be/calendar/delijn/68885-20230706#1696608010406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68885-20230707#1696608010407> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68885-20230707> .
+<https://irail.be/calendar/delijn/68885-20230707#1696608010407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68885-20230727#1696608010408> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68885-20230727#1696608010408> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68885-20230727> .
+<https://irail.be/calendar/delijn/68885-20230727#1696608010408> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68885-20230727#1696608010408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68885-20230728#1696608010409> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68885-20230728#1696608010409> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68885-20230728> .
+<https://irail.be/calendar/delijn/68885-20230728#1696608010409> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68885-20230728#1696608010409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68908-20230707#1696608010410> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68908-20230707> .
+<https://irail.be/calendar/delijn/68908-20230707#1696608010410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68909-20230728#1696608010411> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68909-20230728#1696608010411> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68909-20230728> .
+<https://irail.be/calendar/delijn/68909-20230728#1696608010411> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68909-20230728#1696608010411> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68913-20230706#1696608010412> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68913-20230706> .
+<https://irail.be/calendar/delijn/68913-20230706#1696608010412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68913-20230707#1696608010413> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68913-20230707> .
+<https://irail.be/calendar/delijn/68913-20230707#1696608010413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68914-20230727#1696608010414> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68914-20230727#1696608010414> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68914-20230727> .
+<https://irail.be/calendar/delijn/68914-20230727#1696608010414> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68914-20230727#1696608010414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68914-20230728#1696608010415> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68914-20230728#1696608010415> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68914-20230728> .
+<https://irail.be/calendar/delijn/68914-20230728#1696608010415> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68914-20230728#1696608010415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68916-20230706#1696608010416> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68916-20230706> .
+<https://irail.be/calendar/delijn/68916-20230706#1696608010416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68916-20230707#1696608010417> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68916-20230707> .
+<https://irail.be/calendar/delijn/68916-20230707#1696608010417> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68917-20230727#1696608010418> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68917-20230727#1696608010418> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68917-20230727> .
+<https://irail.be/calendar/delijn/68917-20230727#1696608010418> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68917-20230727#1696608010418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68917-20230728#1696608010419> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68917-20230728#1696608010419> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68917-20230728> .
+<https://irail.be/calendar/delijn/68917-20230728#1696608010419> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68917-20230728#1696608010419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68931-20230707#1696608010420> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68931-20230707> .
+<https://irail.be/calendar/delijn/68931-20230707#1696608010420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68931-20230728#1696608010421> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68931-20230728#1696608010421> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68931-20230728> .
+<https://irail.be/calendar/delijn/68931-20230728#1696608010421> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68931-20230728#1696608010421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68932-20230706#1696608010422> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68932-20230706> .
+<https://irail.be/calendar/delijn/68932-20230706#1696608010422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68932-20230727#1696608010423> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68932-20230727#1696608010423> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68932-20230727> .
+<https://irail.be/calendar/delijn/68932-20230727#1696608010423> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68932-20230727#1696608010423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68933-20230706#1696608010424> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68933-20230706> .
+<https://irail.be/calendar/delijn/68933-20230706#1696608010424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68933-20230707#1696608010425> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68933-20230707> .
+<https://irail.be/calendar/delijn/68933-20230707#1696608010425> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68933-20230727#1696608010426> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68933-20230727#1696608010426> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68933-20230727> .
+<https://irail.be/calendar/delijn/68933-20230727#1696608010426> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68933-20230727#1696608010426> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68933-20230728#1696608010427> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68933-20230728#1696608010427> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68933-20230728> .
+<https://irail.be/calendar/delijn/68933-20230728#1696608010427> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68933-20230728#1696608010427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68943-20230706#1696608010428> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68943-20230706> .
+<https://irail.be/calendar/delijn/68943-20230706#1696608010428> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68943-20230707#1696608010429> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68943-20230707> .
+<https://irail.be/calendar/delijn/68943-20230707#1696608010429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68943-20230727#1696608010430> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68943-20230727#1696608010430> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68943-20230727> .
+<https://irail.be/calendar/delijn/68943-20230727#1696608010430> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68943-20230727#1696608010430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68943-20230728#1696608010431> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68943-20230728#1696608010431> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68943-20230728> .
+<https://irail.be/calendar/delijn/68943-20230728#1696608010431> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68943-20230728#1696608010431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68956-20230707#1696608010432> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68956-20230707> .
+<https://irail.be/calendar/delijn/68956-20230707#1696608010432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68956-20230728#1696608010433> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68956-20230728#1696608010433> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68956-20230728> .
+<https://irail.be/calendar/delijn/68956-20230728#1696608010433> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68956-20230728#1696608010433> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68957-20230707#1696608010434> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68957-20230707> .
+<https://irail.be/calendar/delijn/68957-20230707#1696608010434> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68957-20230728#1696608010435> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68957-20230728#1696608010435> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68957-20230728> .
+<https://irail.be/calendar/delijn/68957-20230728#1696608010435> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68957-20230728#1696608010435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68958-20230706#1696608010436> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68958-20230706> .
+<https://irail.be/calendar/delijn/68958-20230706#1696608010436> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68958-20230727#1696608010437> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68958-20230727#1696608010437> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68958-20230727> .
+<https://irail.be/calendar/delijn/68958-20230727#1696608010437> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68958-20230727#1696608010437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68959-20230706#1696608010438> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68959-20230706> .
+<https://irail.be/calendar/delijn/68959-20230706#1696608010438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68959-20230727#1696608010439> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68959-20230727#1696608010439> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68959-20230727> .
+<https://irail.be/calendar/delijn/68959-20230727#1696608010439> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68959-20230727#1696608010439> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68968-20230706#1696608010440> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68968-20230706> .
+<https://irail.be/calendar/delijn/68968-20230706#1696608010440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68968-20230707#1696608010441> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68968-20230707> .
+<https://irail.be/calendar/delijn/68968-20230707#1696608010441> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68968-20230727#1696608010442> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68968-20230727#1696608010442> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68968-20230727> .
+<https://irail.be/calendar/delijn/68968-20230727#1696608010442> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68968-20230727#1696608010442> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68968-20230728#1696608010443> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68968-20230728#1696608010443> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68968-20230728> .
+<https://irail.be/calendar/delijn/68968-20230728#1696608010443> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68968-20230728#1696608010443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68980-20230707#1696608010444> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68980-20230707> .
+<https://irail.be/calendar/delijn/68980-20230707#1696608010444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68980-20230728#1696608010445> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68980-20230728#1696608010445> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68980-20230728> .
+<https://irail.be/calendar/delijn/68980-20230728#1696608010445> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68980-20230728#1696608010445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68981-20230706#1696608010446> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68981-20230706> .
+<https://irail.be/calendar/delijn/68981-20230706#1696608010446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68981-20230727#1696608010447> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68981-20230727#1696608010447> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68981-20230727> .
+<https://irail.be/calendar/delijn/68981-20230727#1696608010447> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68981-20230727#1696608010447> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68982-20230706#1696608010448> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68982-20230706> .
+<https://irail.be/calendar/delijn/68982-20230706#1696608010448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68982-20230707#1696608010449> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68982-20230707> .
+<https://irail.be/calendar/delijn/68982-20230707#1696608010449> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68982-20230727#1696608010450> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68982-20230727#1696608010450> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68982-20230727> .
+<https://irail.be/calendar/delijn/68982-20230727#1696608010450> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68982-20230727#1696608010450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68982-20230728#1696608010451> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68982-20230728#1696608010451> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68982-20230728> .
+<https://irail.be/calendar/delijn/68982-20230728#1696608010451> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68982-20230728#1696608010451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68989-20230706#1696608010452> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68989-20230706> .
+<https://irail.be/calendar/delijn/68989-20230706#1696608010452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68989-20230707#1696608010453> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68989-20230707> .
+<https://irail.be/calendar/delijn/68989-20230707#1696608010453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68989-20230727#1696608010454> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68989-20230727#1696608010454> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68989-20230727> .
+<https://irail.be/calendar/delijn/68989-20230727#1696608010454> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68989-20230727#1696608010454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68989-20230728#1696608010455> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68989-20230728#1696608010455> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68989-20230728> .
+<https://irail.be/calendar/delijn/68989-20230728#1696608010455> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68989-20230728#1696608010455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68998-20230706#1696608010456> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68998-20230706> .
+<https://irail.be/calendar/delijn/68998-20230706#1696608010456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68998-20230707#1696608010457> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68998-20230707> .
+<https://irail.be/calendar/delijn/68998-20230707#1696608010457> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/68998-20230727#1696608010458> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68998-20230727#1696608010458> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68998-20230727> .
+<https://irail.be/calendar/delijn/68998-20230727#1696608010458> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68998-20230727#1696608010458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68998-20230728#1696608010459> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68998-20230728#1696608010459> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/68998-20230728> .
+<https://irail.be/calendar/delijn/68998-20230728#1696608010459> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/68998-20230728#1696608010459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69013-20230706#1696608010460> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69013-20230706> .
+<https://irail.be/calendar/delijn/69013-20230706#1696608010460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69013-20230707#1696608010461> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69013-20230707> .
+<https://irail.be/calendar/delijn/69013-20230707#1696608010461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69013-20230727#1696608010462> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69013-20230727#1696608010462> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69013-20230727> .
+<https://irail.be/calendar/delijn/69013-20230727#1696608010462> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69013-20230727#1696608010462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69013-20230728#1696608010463> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69013-20230728#1696608010463> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69013-20230728> .
+<https://irail.be/calendar/delijn/69013-20230728#1696608010463> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69013-20230728#1696608010463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69038-20230707#1696608010464> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69038-20230707> .
+<https://irail.be/calendar/delijn/69038-20230707#1696608010464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69038-20230728#1696608010465> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69038-20230728#1696608010465> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69038-20230728> .
+<https://irail.be/calendar/delijn/69038-20230728#1696608010465> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69038-20230728#1696608010465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69039-20230707#1696608010466> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69039-20230707> .
+<https://irail.be/calendar/delijn/69039-20230707#1696608010466> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69039-20230728#1696608010467> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69039-20230728#1696608010467> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69039-20230728> .
+<https://irail.be/calendar/delijn/69039-20230728#1696608010467> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69039-20230728#1696608010467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69043-20230706#1696608010468> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69043-20230706> .
+<https://irail.be/calendar/delijn/69043-20230706#1696608010468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69043-20230727#1696608010469> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69043-20230727#1696608010469> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69043-20230727> .
+<https://irail.be/calendar/delijn/69043-20230727#1696608010469> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69043-20230727#1696608010469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69045-20230706#1696608010470> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69045-20230706> .
+<https://irail.be/calendar/delijn/69045-20230706#1696608010470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69045-20230727#1696608010471> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69045-20230727#1696608010471> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69045-20230727> .
+<https://irail.be/calendar/delijn/69045-20230727#1696608010471> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69045-20230727#1696608010471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69056-20230706#1696608010472> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69056-20230706> .
+<https://irail.be/calendar/delijn/69056-20230706#1696608010472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69056-20230707#1696608010473> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69056-20230707> .
+<https://irail.be/calendar/delijn/69056-20230707#1696608010473> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69056-20230727#1696608010474> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69056-20230727#1696608010474> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69056-20230727> .
+<https://irail.be/calendar/delijn/69056-20230727#1696608010474> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69056-20230727#1696608010474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69056-20230728#1696608010475> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69056-20230728#1696608010475> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69056-20230728> .
+<https://irail.be/calendar/delijn/69056-20230728#1696608010475> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69056-20230728#1696608010475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69079-20230707#1696608010476> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69079-20230707> .
+<https://irail.be/calendar/delijn/69079-20230707#1696608010476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69079-20230728#1696608010477> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69079-20230728#1696608010477> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69079-20230728> .
+<https://irail.be/calendar/delijn/69079-20230728#1696608010477> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69079-20230728#1696608010477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69080-20230707#1696608010478> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69080-20230707> .
+<https://irail.be/calendar/delijn/69080-20230707#1696608010478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69080-20230728#1696608010479> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69080-20230728#1696608010479> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69080-20230728> .
+<https://irail.be/calendar/delijn/69080-20230728#1696608010479> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69080-20230728#1696608010479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69081-20230706#1696608010480> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69081-20230706> .
+<https://irail.be/calendar/delijn/69081-20230706#1696608010480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69081-20230727#1696608010481> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69081-20230727#1696608010481> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69081-20230727> .
+<https://irail.be/calendar/delijn/69081-20230727#1696608010481> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69081-20230727#1696608010481> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69099-20230706#1696608010482> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69099-20230706> .
+<https://irail.be/calendar/delijn/69099-20230706#1696608010482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69099-20230707#1696608010483> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69099-20230707> .
+<https://irail.be/calendar/delijn/69099-20230707#1696608010483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69099-20230727#1696608010484> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69099-20230727#1696608010484> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69099-20230727> .
+<https://irail.be/calendar/delijn/69099-20230727#1696608010484> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69099-20230727#1696608010484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69099-20230728#1696608010485> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69099-20230728#1696608010485> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69099-20230728> .
+<https://irail.be/calendar/delijn/69099-20230728#1696608010485> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69099-20230728#1696608010485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69104-20230706#1696608010486> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69104-20230706> .
+<https://irail.be/calendar/delijn/69104-20230706#1696608010486> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69104-20230707#1696608010487> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69104-20230707> .
+<https://irail.be/calendar/delijn/69104-20230707#1696608010487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69104-20230727#1696608010488> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69104-20230727#1696608010488> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69104-20230727> .
+<https://irail.be/calendar/delijn/69104-20230727#1696608010488> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69104-20230727#1696608010488> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69104-20230728#1696608010489> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69104-20230728#1696608010489> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69104-20230728> .
+<https://irail.be/calendar/delijn/69104-20230728#1696608010489> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69104-20230728#1696608010489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69114-20230707#1696608010490> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69114-20230707> .
+<https://irail.be/calendar/delijn/69114-20230707#1696608010490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69114-20230728#1696608010491> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69114-20230728#1696608010491> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69114-20230728> .
+<https://irail.be/calendar/delijn/69114-20230728#1696608010491> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69114-20230728#1696608010491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69115-20230707#1696608010492> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69115-20230707> .
+<https://irail.be/calendar/delijn/69115-20230707#1696608010492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69115-20230728#1696608010493> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69115-20230728#1696608010493> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69115-20230728> .
+<https://irail.be/calendar/delijn/69115-20230728#1696608010493> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69115-20230728#1696608010493> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69121-20230706#1696608010494> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69121-20230706> .
+<https://irail.be/calendar/delijn/69121-20230706#1696608010494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69121-20230727#1696608010495> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69121-20230727#1696608010495> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69121-20230727> .
+<https://irail.be/calendar/delijn/69121-20230727#1696608010495> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69121-20230727#1696608010495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69132-20230706#1696608010496> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69132-20230706> .
+<https://irail.be/calendar/delijn/69132-20230706#1696608010496> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69132-20230707#1696608010497> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69132-20230707> .
+<https://irail.be/calendar/delijn/69132-20230707#1696608010497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69132-20230727#1696608010498> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69132-20230727#1696608010498> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69132-20230727> .
+<https://irail.be/calendar/delijn/69132-20230727#1696608010498> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69132-20230727#1696608010498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69132-20230728#1696608010499> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69132-20230728#1696608010499> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69132-20230728> .
+<https://irail.be/calendar/delijn/69132-20230728#1696608010499> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69132-20230728#1696608010499> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69152-20230706#1696608010500> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69152-20230706> .
+<https://irail.be/calendar/delijn/69152-20230706#1696608010500> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69152-20230707#1696608010501> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69152-20230707> .
+<https://irail.be/calendar/delijn/69152-20230707#1696608010501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69152-20230727#1696608010502> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69152-20230727#1696608010502> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69152-20230727> .
+<https://irail.be/calendar/delijn/69152-20230727#1696608010502> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69152-20230727#1696608010502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69152-20230728#1696608010503> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69152-20230728#1696608010503> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69152-20230728> .
+<https://irail.be/calendar/delijn/69152-20230728#1696608010503> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69152-20230728#1696608010503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69169-20230706#1696608010504> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69169-20230706> .
+<https://irail.be/calendar/delijn/69169-20230706#1696608010504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69169-20230707#1696608010505> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69169-20230707> .
+<https://irail.be/calendar/delijn/69169-20230707#1696608010505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69169-20230727#1696608010506> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69169-20230727#1696608010506> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69169-20230727> .
+<https://irail.be/calendar/delijn/69169-20230727#1696608010506> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69169-20230727#1696608010506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69169-20230728#1696608010507> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69169-20230728#1696608010507> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69169-20230728> .
+<https://irail.be/calendar/delijn/69169-20230728#1696608010507> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69169-20230728#1696608010507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69179-20230706#1696608010508> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69179-20230706> .
+<https://irail.be/calendar/delijn/69179-20230706#1696608010508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69179-20230707#1696608010509> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69179-20230707> .
+<https://irail.be/calendar/delijn/69179-20230707#1696608010509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69179-20230727#1696608010510> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69179-20230727#1696608010510> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69179-20230727> .
+<https://irail.be/calendar/delijn/69179-20230727#1696608010510> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69179-20230727#1696608010510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69179-20230728#1696608010511> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69179-20230728#1696608010511> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69179-20230728> .
+<https://irail.be/calendar/delijn/69179-20230728#1696608010511> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69179-20230728#1696608010511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69202-20230707#1696608010512> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69202-20230707> .
+<https://irail.be/calendar/delijn/69202-20230707#1696608010512> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69202-20230728#1696608010513> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69202-20230728#1696608010513> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69202-20230728> .
+<https://irail.be/calendar/delijn/69202-20230728#1696608010513> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69202-20230728#1696608010513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69205-20230706#1696608010514> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69205-20230706> .
+<https://irail.be/calendar/delijn/69205-20230706#1696608010514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69205-20230707#1696608010515> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69205-20230707> .
+<https://irail.be/calendar/delijn/69205-20230707#1696608010515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69205-20230727#1696608010516> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69205-20230727#1696608010516> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69205-20230727> .
+<https://irail.be/calendar/delijn/69205-20230727#1696608010516> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69205-20230727#1696608010516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69205-20230728#1696608010517> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69205-20230728#1696608010517> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69205-20230728> .
+<https://irail.be/calendar/delijn/69205-20230728#1696608010517> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69205-20230728#1696608010517> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69218-20230706#1696608010518> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69218-20230706> .
+<https://irail.be/calendar/delijn/69218-20230706#1696608010518> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69218-20230707#1696608010519> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69218-20230707> .
+<https://irail.be/calendar/delijn/69218-20230707#1696608010519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69218-20230727#1696608010520> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69218-20230727#1696608010520> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69218-20230727> .
+<https://irail.be/calendar/delijn/69218-20230727#1696608010520> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69218-20230727#1696608010520> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69218-20230728#1696608010521> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69218-20230728#1696608010521> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69218-20230728> .
+<https://irail.be/calendar/delijn/69218-20230728#1696608010521> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69218-20230728#1696608010521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69234-20230706#1696608010522> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69234-20230706> .
+<https://irail.be/calendar/delijn/69234-20230706#1696608010522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69234-20230707#1696608010523> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69234-20230707> .
+<https://irail.be/calendar/delijn/69234-20230707#1696608010523> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69234-20230727#1696608010524> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69234-20230727#1696608010524> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69234-20230727> .
+<https://irail.be/calendar/delijn/69234-20230727#1696608010524> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69234-20230727#1696608010524> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69234-20230728#1696608010525> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69234-20230728#1696608010525> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69234-20230728> .
+<https://irail.be/calendar/delijn/69234-20230728#1696608010525> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69234-20230728#1696608010525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69244-20230706#1696608010526> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69244-20230706> .
+<https://irail.be/calendar/delijn/69244-20230706#1696608010526> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69244-20230707#1696608010527> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69244-20230707> .
+<https://irail.be/calendar/delijn/69244-20230707#1696608010527> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69244-20230727#1696608010528> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69244-20230727#1696608010528> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69244-20230727> .
+<https://irail.be/calendar/delijn/69244-20230727#1696608010528> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69244-20230727#1696608010528> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69244-20230728#1696608010529> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69244-20230728#1696608010529> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69244-20230728> .
+<https://irail.be/calendar/delijn/69244-20230728#1696608010529> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69244-20230728#1696608010529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69247-20230706#1696608010530> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69247-20230706> .
+<https://irail.be/calendar/delijn/69247-20230706#1696608010530> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69247-20230707#1696608010531> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69247-20230707> .
+<https://irail.be/calendar/delijn/69247-20230707#1696608010531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69247-20230727#1696608010532> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69247-20230727#1696608010532> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69247-20230727> .
+<https://irail.be/calendar/delijn/69247-20230727#1696608010532> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69247-20230727#1696608010532> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69247-20230728#1696608010533> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69247-20230728#1696608010533> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69247-20230728> .
+<https://irail.be/calendar/delijn/69247-20230728#1696608010533> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69247-20230728#1696608010533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69269-20230706#1696608010534> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69269-20230706> .
+<https://irail.be/calendar/delijn/69269-20230706#1696608010534> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69269-20230707#1696608010535> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69269-20230707> .
+<https://irail.be/calendar/delijn/69269-20230707#1696608010535> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69269-20230727#1696608010536> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69269-20230727#1696608010536> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69269-20230727> .
+<https://irail.be/calendar/delijn/69269-20230727#1696608010536> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69269-20230727#1696608010536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69269-20230728#1696608010537> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69269-20230728#1696608010537> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69269-20230728> .
+<https://irail.be/calendar/delijn/69269-20230728#1696608010537> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69269-20230728#1696608010537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69291-20230707#1696608010538> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69291-20230707> .
+<https://irail.be/calendar/delijn/69291-20230707#1696608010538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69291-20230728#1696608010539> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69291-20230728#1696608010539> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69291-20230728> .
+<https://irail.be/calendar/delijn/69291-20230728#1696608010539> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69291-20230728#1696608010539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69294-20230706#1696608010540> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69294-20230706> .
+<https://irail.be/calendar/delijn/69294-20230706#1696608010540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69294-20230727#1696608010541> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69294-20230727#1696608010541> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69294-20230727> .
+<https://irail.be/calendar/delijn/69294-20230727#1696608010541> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69294-20230727#1696608010541> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69297-20230706#1696608010542> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69297-20230706> .
+<https://irail.be/calendar/delijn/69297-20230706#1696608010542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69297-20230707#1696608010543> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69297-20230707> .
+<https://irail.be/calendar/delijn/69297-20230707#1696608010543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69297-20230727#1696608010544> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69297-20230727#1696608010544> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69297-20230727> .
+<https://irail.be/calendar/delijn/69297-20230727#1696608010544> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69297-20230727#1696608010544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69297-20230728#1696608010545> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69297-20230728#1696608010545> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69297-20230728> .
+<https://irail.be/calendar/delijn/69297-20230728#1696608010545> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69297-20230728#1696608010545> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69308-20230706#1696608010546> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69308-20230706> .
+<https://irail.be/calendar/delijn/69308-20230706#1696608010546> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69308-20230707#1696608010547> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69308-20230707> .
+<https://irail.be/calendar/delijn/69308-20230707#1696608010547> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69308-20230727#1696608010548> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69308-20230727#1696608010548> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69308-20230727> .
+<https://irail.be/calendar/delijn/69308-20230727#1696608010548> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69308-20230727#1696608010548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69308-20230728#1696608010549> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69308-20230728#1696608010549> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69308-20230728> .
+<https://irail.be/calendar/delijn/69308-20230728#1696608010549> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69308-20230728#1696608010549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69319-20230706#1696608010550> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69319-20230706> .
+<https://irail.be/calendar/delijn/69319-20230706#1696608010550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69319-20230707#1696608010551> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69319-20230707> .
+<https://irail.be/calendar/delijn/69319-20230707#1696608010551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69319-20230727#1696608010552> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69319-20230727#1696608010552> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69319-20230727> .
+<https://irail.be/calendar/delijn/69319-20230727#1696608010552> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69319-20230727#1696608010552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69319-20230728#1696608010553> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69319-20230728#1696608010553> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69319-20230728> .
+<https://irail.be/calendar/delijn/69319-20230728#1696608010553> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69319-20230728#1696608010553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69327-20230706#1696608010554> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69327-20230706> .
+<https://irail.be/calendar/delijn/69327-20230706#1696608010554> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69327-20230707#1696608010555> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69327-20230707> .
+<https://irail.be/calendar/delijn/69327-20230707#1696608010555> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69327-20230727#1696608010556> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69327-20230727#1696608010556> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69327-20230727> .
+<https://irail.be/calendar/delijn/69327-20230727#1696608010556> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69327-20230727#1696608010556> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69327-20230728#1696608010557> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69327-20230728#1696608010557> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69327-20230728> .
+<https://irail.be/calendar/delijn/69327-20230728#1696608010557> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69327-20230728#1696608010557> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69344-20230706#1696608010558> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69344-20230706> .
+<https://irail.be/calendar/delijn/69344-20230706#1696608010558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69344-20230707#1696608010559> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69344-20230707> .
+<https://irail.be/calendar/delijn/69344-20230707#1696608010559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69344-20230727#1696608010560> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69344-20230727#1696608010560> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69344-20230727> .
+<https://irail.be/calendar/delijn/69344-20230727#1696608010560> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69344-20230727#1696608010560> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69344-20230728#1696608010561> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69344-20230728#1696608010561> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69344-20230728> .
+<https://irail.be/calendar/delijn/69344-20230728#1696608010561> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69344-20230728#1696608010561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69360-20230706#1696608010562> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69360-20230706> .
+<https://irail.be/calendar/delijn/69360-20230706#1696608010562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69360-20230707#1696608010563> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69360-20230707> .
+<https://irail.be/calendar/delijn/69360-20230707#1696608010563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69360-20230727#1696608010564> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69360-20230727#1696608010564> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69360-20230727> .
+<https://irail.be/calendar/delijn/69360-20230727#1696608010564> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69360-20230727#1696608010564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69360-20230728#1696608010565> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69360-20230728#1696608010565> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69360-20230728> .
+<https://irail.be/calendar/delijn/69360-20230728#1696608010565> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69360-20230728#1696608010565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69371-20230706#1696608010566> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69371-20230706> .
+<https://irail.be/calendar/delijn/69371-20230706#1696608010566> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69371-20230707#1696608010567> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69371-20230707> .
+<https://irail.be/calendar/delijn/69371-20230707#1696608010567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69371-20230727#1696608010568> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69371-20230727#1696608010568> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69371-20230727> .
+<https://irail.be/calendar/delijn/69371-20230727#1696608010568> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69371-20230727#1696608010568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69371-20230728#1696608010569> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69371-20230728#1696608010569> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69371-20230728> .
+<https://irail.be/calendar/delijn/69371-20230728#1696608010569> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69371-20230728#1696608010569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69381-20230706#1696608010570> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69381-20230706> .
+<https://irail.be/calendar/delijn/69381-20230706#1696608010570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69381-20230707#1696608010571> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69381-20230707> .
+<https://irail.be/calendar/delijn/69381-20230707#1696608010571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/delete> .
+<https://irail.be/calendar/delijn/69381-20230727#1696608010572> <http://purl.org/dc/terms/date> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69381-20230727#1696608010572> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69381-20230727> .
+<https://irail.be/calendar/delijn/69381-20230727#1696608010572> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69381-20230727#1696608010572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69381-20230728#1696608010573> <http://purl.org/dc/terms/date> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69381-20230728#1696608010573> <http://purl.org/dc/terms/isVersionOf> <https://irail.be/calendar/delijn/69381-20230728> .
+<https://irail.be/calendar/delijn/69381-20230728#1696608010573> <http://vocab.gtfs.org/terms#dateAddition> "1"^^<http://www.w3.org/2001/XMLSchema#boolean> <http://delijn.be/event/create> .
+<https://irail.be/calendar/delijn/69381-20230728#1696608010573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#CalendarDateRule> <http://delijn.be/event/create> .

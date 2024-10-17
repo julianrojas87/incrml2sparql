@@ -1,0 +1,100 @@
+<http://irail.be/trip/NMBS/Anvers-Central(17200)#1699884235259> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Anvers-Central(17200)> .
+<http://irail.be/trip/NMBS/Anvers-Central(17200)#1699884235259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/delete> .
+<http://irail.be/trip/NMBS/Anvers-Central(17300)#1699884235260> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Anvers-Central(17300)> .
+<http://irail.be/trip/NMBS/Anvers-Central(17300)#1699884235260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/delete> .
+<http://irail.be/trip/NMBS/Arlon(17201)#1699884235261> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Arlon(17201)> .
+<http://irail.be/trip/NMBS/Arlon(17201)#1699884235261> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/delete> .
+<http://irail.be/trip/NMBS/Arlon(17205)#1699884235262> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Arlon(17205)> .
+<http://irail.be/trip/NMBS/Arlon(17205)#1699884235262> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/delete> .
+<http://irail.be/trip/NMBS/Arlon(18733)#1699884235263> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Arlon(18733)> .
+<http://irail.be/trip/NMBS/Arlon(18733)#1699884235263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/delete> .
+<http://irail.be/trip/NMBS/Bruxelles-Midi(17203)#1699884235264> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Bruxelles-Midi(17203)> .
+<http://irail.be/trip/NMBS/Bruxelles-Midi(17203)#1699884235264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/delete> .
+<http://irail.be/trip/NMBS/Bruxelles-Midi(17204)#1699884235265> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Bruxelles-Midi(17204)> .
+<http://irail.be/trip/NMBS/Bruxelles-Midi(17204)#1699884235265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/delete> .
+<http://irail.be/trip/NMBS/Bruxelles-Midi(17206)#1699884235266> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Bruxelles-Midi(17206)> .
+<http://irail.be/trip/NMBS/Bruxelles-Midi(17206)#1699884235266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/delete> .
+<http://irail.be/trip/NMBS/Gembloux(11724)#1699884235267> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Gembloux(11724)> .
+<http://irail.be/trip/NMBS/Gembloux(11724)#1699884235267> <http://vocab.gtfs.org/terms#block> "3090" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11724)#1699884235267> <http://vocab.gtfs.org/terms#headsign> "Gembloux" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11724)#1699884235267> <http://vocab.gtfs.org/terms#service> <http://irail.be/service/NMBS/000016> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11724)#1699884235267> <http://vocab.gtfs.org/terms#shortName> "11724" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11724)#1699884235267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11726)#1699884235268> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Gembloux(11726)> .
+<http://irail.be/trip/NMBS/Gembloux(11726)#1699884235268> <http://vocab.gtfs.org/terms#block> "3100" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11726)#1699884235268> <http://vocab.gtfs.org/terms#headsign> "Gembloux" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11726)#1699884235268> <http://vocab.gtfs.org/terms#service> <http://irail.be/service/NMBS/000016> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11726)#1699884235268> <http://vocab.gtfs.org/terms#shortName> "11726" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11726)#1699884235268> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11728)#1699884235269> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Gembloux(11728)> .
+<http://irail.be/trip/NMBS/Gembloux(11728)#1699884235269> <http://vocab.gtfs.org/terms#block> "3110" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11728)#1699884235269> <http://vocab.gtfs.org/terms#headsign> "Gembloux" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11728)#1699884235269> <http://vocab.gtfs.org/terms#service> <http://irail.be/service/NMBS/000016> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11728)#1699884235269> <http://vocab.gtfs.org/terms#shortName> "11728" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11728)#1699884235269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11730)#1699884235270> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Gembloux(11730)> .
+<http://irail.be/trip/NMBS/Gembloux(11730)#1699884235270> <http://vocab.gtfs.org/terms#block> "3120" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11730)#1699884235270> <http://vocab.gtfs.org/terms#headsign> "Gembloux" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11730)#1699884235270> <http://vocab.gtfs.org/terms#service> <http://irail.be/service/NMBS/000016> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11730)#1699884235270> <http://vocab.gtfs.org/terms#shortName> "11730" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11730)#1699884235270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11732)#1699884235271> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Gembloux(11732)> .
+<http://irail.be/trip/NMBS/Gembloux(11732)#1699884235271> <http://vocab.gtfs.org/terms#block> "3130" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11732)#1699884235271> <http://vocab.gtfs.org/terms#headsign> "Gembloux" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11732)#1699884235271> <http://vocab.gtfs.org/terms#service> <http://irail.be/service/NMBS/000016> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11732)#1699884235271> <http://vocab.gtfs.org/terms#shortName> "11732" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Gembloux(11732)#1699884235271> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Hasselt(17203)#1699884235272> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Hasselt(17203)> .
+<http://irail.be/trip/NMBS/Hasselt(17203)#1699884235272> <http://vocab.gtfs.org/terms#block> "8970" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Hasselt(17203)#1699884235272> <http://vocab.gtfs.org/terms#headsign> "Hasselt" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Hasselt(17203)#1699884235272> <http://vocab.gtfs.org/terms#service> <http://irail.be/service/NMBS/000090> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Hasselt(17203)#1699884235272> <http://vocab.gtfs.org/terms#shortName> "17203" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Hasselt(17203)#1699884235272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Luxembourg%20%28l%29(18706)#1699884235273> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Luxembourg%20%28l%29(18706)> .
+<http://irail.be/trip/NMBS/Luxembourg%20%28l%29(18706)#1699884235273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/delete> .
+<http://irail.be/trip/NMBS/Luxembourg%20%28l%29(18714)#1699884235274> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Luxembourg%20%28l%29(18714)> .
+<http://irail.be/trip/NMBS/Luxembourg%20%28l%29(18714)#1699884235274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/delete> .
+<http://irail.be/trip/NMBS/Namur(11722)#1699884235275> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Namur(11722)> .
+<http://irail.be/trip/NMBS/Namur(11722)#1699884235275> <http://vocab.gtfs.org/terms#block> "3080" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Namur(11722)#1699884235275> <http://vocab.gtfs.org/terms#headsign> "Namur" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Namur(11722)#1699884235275> <http://vocab.gtfs.org/terms#service> <http://irail.be/service/NMBS/000018> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Namur(11722)#1699884235275> <http://vocab.gtfs.org/terms#shortName> "11722" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Namur(11722)#1699884235275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Namur(11723)#1699884235276> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Namur(11723)> .
+<http://irail.be/trip/NMBS/Namur(11723)#1699884235276> <http://vocab.gtfs.org/terms#block> "3085" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Namur(11723)#1699884235276> <http://vocab.gtfs.org/terms#headsign> "Namur" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Namur(11723)#1699884235276> <http://vocab.gtfs.org/terms#service> <http://irail.be/service/NMBS/000020> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Namur(11723)#1699884235276> <http://vocab.gtfs.org/terms#shortName> "11723" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Namur(11723)#1699884235276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Poperinge(17301)#1699884235277> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Poperinge(17301)> .
+<http://irail.be/trip/NMBS/Poperinge(17301)#1699884235277> <http://vocab.gtfs.org/terms#block> "9011" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Poperinge(17301)#1699884235277> <http://vocab.gtfs.org/terms#headsign> "Poperinge" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Poperinge(17301)#1699884235277> <http://vocab.gtfs.org/terms#service> <http://irail.be/service/NMBS/000088> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Poperinge(17301)#1699884235277> <http://vocab.gtfs.org/terms#shortName> "17301" <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Poperinge(17301)#1699884235277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/create> .
+<http://irail.be/trip/NMBS/Rochefort-Jemelle(17202)#1699884235278> <http://purl.org/dc/terms/isVersionOf> <http://irail.be/trip/NMBS/Rochefort-Jemelle(17202)> .
+<http://irail.be/trip/NMBS/Rochefort-Jemelle(17202)#1699884235278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://vocab.gtfs.org/terms#Trip> <http://sncb.be/event/delete> .
+<https://sncb.be/ldes.ttl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/ldes#EventStream> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/ldes#timestampPath> <http://purl.org/dc/terms/created> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/ldes#versionOfPath> <http://purl.org/dc/terms/isVersionOf> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Anvers-Central(17200)#1699884235259> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Anvers-Central(17300)#1699884235260> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Arlon(17201)#1699884235261> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Arlon(17205)#1699884235262> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Arlon(18733)#1699884235263> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Bruxelles-Midi(17203)#1699884235264> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Bruxelles-Midi(17204)#1699884235265> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Bruxelles-Midi(17206)#1699884235266> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Gembloux(11724)#1699884235267> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Gembloux(11726)#1699884235268> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Gembloux(11728)#1699884235269> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Gembloux(11730)#1699884235270> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Gembloux(11732)#1699884235271> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Hasselt(17203)#1699884235272> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Luxembourg%20%28l%29(18706)#1699884235273> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Luxembourg%20%28l%29(18714)#1699884235274> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Namur(11722)#1699884235275> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Namur(11723)#1699884235276> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Poperinge(17301)#1699884235277> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#member> <http://irail.be/trip/NMBS/Rochefort-Jemelle(17202)#1699884235278> .
+<https://sncb.be/ldes.ttl> <https://w3id.org/tree#shape> <https://sncb.be/shape.ttl> .
