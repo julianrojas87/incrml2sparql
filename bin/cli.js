@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 import { Command, Option } from "commander";
+import { Readable } from "stream";
 import { rdfDereferencer } from "rdf-dereference";
 import { RdfStore } from "rdf-stores";
 import { DataFactory } from "rdf-data-factory";
@@ -73,7 +74,12 @@ async function main() {
         process.exit(1);
     }
 
+    // Global quad store
     const store = RdfStore.createDefault();
+    // Stream query builder
+    const queryBuilder = new Readable({ read() {} });
+    // Pipe to standard output
+    queryBuilder.pipe(process.stdout);
 
     try {
         // Read the RDF quads from the file
@@ -96,27 +102,30 @@ async function main() {
             )[0].object;
 
             // Create the corresponding DELETE, UPDATE and INSERT queries
-            const finalQuery = [];
+            
 
             if (deleted.length > 0) {
-                finalQuery.push(DELETE(materializeMembers(deleted, versionOfPath, store), targetGraph));
+                await DELETE(materializeMembers(deleted, versionOfPath, store), targetGraph, queryBuilder);
             }
 
             if (updated.length > 0) {
-                finalQuery.push(UPDATE(materializeMembers(updated, versionOfPath, store), targetGraph));
+                await UPDATE(materializeMembers(updated, versionOfPath, store), targetGraph, queryBuilder);
             }
 
             if (created.length > 0) {
-                finalQuery.push(INSERT(materializeMembers(created, versionOfPath, store), targetGraph));
+                await INSERT(materializeMembers(created, versionOfPath, store), targetGraph, queryBuilder);
             }
-
-            console.log(finalQuery.join("\n"));
         } else {
             // This is an ALL case!
             const members = [];
             // Check if it contains LDES metadata
             const ldesMetadata = store.getQuads(null, df.namedNode("https://w3id.org/tree#member"), null, null);
-            const hasLDES = store.getQuads(null, df.namedNode("http://www.w3.org/1999/02/22-rdf-syntax-ns#type"), df.namedNode("https://w3id.org/ldes#EventStream"), null);
+            const hasLDES = store.getQuads(
+                null, 
+                df.namedNode("http://www.w3.org/1999/02/22-rdf-syntax-ns#type"), 
+                df.namedNode("https://w3id.org/ldes#EventStream"), 
+                null
+            );
 
             if (ldesMetadata.length > 0) {
                 // Extract the quads of the members only
@@ -125,16 +134,17 @@ async function main() {
                 });
 	
                 // Create a corresponding DROP INSERT query
-                console.log(DROP_INSERT(members, targetGraph));
+               await DROP_INSERT(members, targetGraph, queryBuilder);
             // ALL case if not an empty LDES
             } else if (hasLDES.length == 0) {
                 // Extract all quads
                 members.push(...store.getQuads(null, null, null, null));
                 // Create a corresponding DROP INSERT query
-                console.log(DROP_INSERT(members, targetGraph));
+                await DROP_INSERT(members, targetGraph, queryBuilder);
             }
         }
-
+        // Close the query stream
+        queryBuilder.push(null);
     } catch (err) {
         console.error(err);
         process.exit(1);
