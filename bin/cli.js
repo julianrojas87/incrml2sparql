@@ -6,13 +6,14 @@ import { rdfDereferencer } from "rdf-dereference";
 import { RdfStore } from "rdf-stores";
 import { DataFactory } from "rdf-data-factory";
 import { EVENTS } from "../lib/events.js";
-import { DROP_INSERT, DELETE, UPDATE, INSERT } from "../lib/queries.js";
+import { DROP, DELETE, UPDATE, INSERT } from "../lib/queries.js";
 
 const program = new Command();
 const df = new DataFactory();
 let filePath = null;
 let source = null;
 let targetGraph = null;
+let limit = 0;
 
 program.arguments("<file>")
     .addOption(
@@ -21,6 +22,9 @@ program.arguments("<file>")
     ).option(
         "-t, --target-graph <targetGraph>",
         "IRI of the target named graph to write towards"
+    ).option(
+        "-l, --limit <limit>",
+        "Maximum number of triples to insert in a single query. Larger queries will be split accordingly."
     ).action((file, program) => {
         filePath = file;
 
@@ -32,6 +36,10 @@ program.arguments("<file>")
 
         if (program.targetGraph) {
             targetGraph = program.targetGraph;
+        }
+
+        if (program.limit) {
+            limit = parseInt(program.limit);
         }
     });
 program.parse(process.argv);
@@ -77,7 +85,7 @@ async function main() {
     // Global quad store
     const store = RdfStore.createDefault();
     // Stream query builder
-    const queryBuilder = new Readable({ read() {} });
+    const queryBuilder = new Readable({ read() { } });
     // Pipe to standard output
     queryBuilder.pipe(process.stdout);
 
@@ -102,8 +110,6 @@ async function main() {
             )[0].object;
 
             // Create the corresponding DELETE, UPDATE and INSERT queries
-            
-
             if (deleted.length > 0) {
                 await DELETE(materializeMembers(deleted, versionOfPath, store), targetGraph, queryBuilder);
             }
@@ -113,34 +119,54 @@ async function main() {
             }
 
             if (created.length > 0) {
-                await INSERT(materializeMembers(created, versionOfPath, store), targetGraph, queryBuilder);
+                // Split the created members in multiple INSERT queries if number of quads exceeds the limit 
+                if (limit > 0 && created.length > limit) {
+                    for (let i = 0; i < created.length; i += limit) {
+                        await INSERT(
+                            materializeMembers(created.slice(i, i + limit), versionOfPath, store), 
+                            targetGraph, 
+                            queryBuilder
+                        );
+                    }
+                } else {
+                    // Create a corresponding INSERT query
+                    await INSERT(materializeMembers(created, versionOfPath, store), targetGraph, queryBuilder);
+                }
             }
         } else {
             // This is an ALL case!
-            const members = [];
+            const memberQuads = [];
             // Check if it contains LDES metadata
             const ldesMetadata = store.getQuads(null, df.namedNode("https://w3id.org/tree#member"), null, null);
             const hasLDES = store.getQuads(
-                null, 
-                df.namedNode("http://www.w3.org/1999/02/22-rdf-syntax-ns#type"), 
-                df.namedNode("https://w3id.org/ldes#EventStream"), 
+                null,
+                df.namedNode("http://www.w3.org/1999/02/22-rdf-syntax-ns#type"),
+                df.namedNode("https://w3id.org/ldes#EventStream"),
                 null
             );
 
             if (ldesMetadata.length > 0) {
                 // Extract the quads of the members only
                 ldesMetadata.forEach(q => {
-                    members.push(...store.getQuads(q.object, null, null, null));
+                    memberQuads.push(...store.getQuads(q.object, null, null, null));
                 });
-	
-                // Create a corresponding DROP INSERT query
-               await DROP_INSERT(members, targetGraph, queryBuilder);
-            // ALL case if not an empty LDES
-            } else if (hasLDES.length == 0) {
+                // ALL case if not an empty LDES
+            } else if (hasLDES.length === 0) {
                 // Extract all quads
-                members.push(...store.getQuads(null, null, null, null));
+                memberQuads.push(...store.getQuads(null, null, null, null));
+            }
+
+            // Do a DROP query to delete the older KG
+            DROP(targetGraph, queryBuilder);
+
+            if (limit > 0 && memberQuads.length > limit) {
+                // Create multiple INSERT queries with a limited amount of triples
+                for (let i = 0; i < memberQuads.length; i += limit) {
+                    await INSERT(memberQuads.slice(i, i + limit), targetGraph, queryBuilder);
+                }
+            } else {
                 // Create a corresponding DROP INSERT query
-                await DROP_INSERT(members, targetGraph, queryBuilder);
+                await INSERT(memberQuads, targetGraph, queryBuilder);
             }
         }
         // Close the query stream
