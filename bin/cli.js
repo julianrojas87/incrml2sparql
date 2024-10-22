@@ -120,8 +120,8 @@ async function main() {
 
             if (created.length > 0) {
                 // Split the created members in multiple INSERT queries if number of quads exceeds the limit 
+                const materializedMembers = materializeMembers(created, versionOfPath, store);
                 if (limit > 0 && created.length > limit) {
-                    const materializedMembers = materializeMembers(created, versionOfPath, store);
                     for (let i = 0; i < materializedMembers.length; i += limit) {
                         await INSERT(materializedMembers.slice(i, i + limit), targetGraph, queryBuilder);
                     }
