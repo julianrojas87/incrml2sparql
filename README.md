@@ -15,3 +15,7 @@ It can be used as follows:
 ```bash
 node bin/cli.js --source [bluebike|delijn|gtfs|nmbs|jcdecaux|kmi|osm] --target-graph http://my.graph.com /path/to/rdf.ttl > query.sparql
 ```
+
+## Splitting large INSERT queries
+
+A threshold can be defined to produce multiple INSERT queries that avoid hitting triple store limits. The threshold can be defined with the `--limit` option.
