@@ -111,11 +111,13 @@ async function main() {
 
             // Create the corresponding DELETE, UPDATE and INSERT queries
             if (deleted.length > 0) {
-                await DELETE(materializeMembers(deleted, versionOfPath, store), targetGraph, queryBuilder);
+                const materializedMembers = materializeMembers(deleted, versionOfPath, store);
+                await DELETE(materializedMembers, targetGraph, queryBuilder);
             }
 
             if (updated.length > 0) {
-                await UPDATE(materializeMembers(updated, versionOfPath, store), targetGraph, queryBuilder);
+                const materializedMembers = materializeMembers(updated, versionOfPath, store);
+                await UPDATE(materializedMembers, targetGraph, queryBuilder);
             }
 
             if (created.length > 0) {
@@ -154,17 +156,19 @@ async function main() {
             }
 
             // Do a DROP query to delete the older KG
-            DROP(targetGraph, queryBuilder);
+            if (memberQuads.length > 0) {
+                DROP(targetGraph, queryBuilder);
 
-            if (limit > 0 && memberQuads.length > limit) {
-                // Create multiple INSERT queries with a limited amount of triples
-                for (let i = 0; i < memberQuads.length; i += limit) {
-                    await INSERT(memberQuads.slice(i, i + limit), targetGraph, queryBuilder);
+                if (limit > 0 && memberQuads.length > limit) {
+                    // Create multiple INSERT queries with a limited amount of triples
+                    for (let i = 0; i < memberQuads.length; i += limit) {
+                        await INSERT(memberQuads.slice(i, i + limit), targetGraph, queryBuilder);
+                    }
+                } else {
+                    // Create a corresponding DROP INSERT query
+                    await INSERT(memberQuads, targetGraph, queryBuilder);
                 }
-            } else {
-                // Create a corresponding DROP INSERT query
-                await INSERT(memberQuads, targetGraph, queryBuilder);
-            }
+	    }
         }
         // Close the query stream
         queryBuilder.push(null);
