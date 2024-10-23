@@ -6,7 +6,7 @@ import { rdfDereferencer } from "rdf-dereference";
 import { RdfStore } from "rdf-stores";
 import { DataFactory } from "rdf-data-factory";
 import { EVENTS } from "../lib/events.js";
-import { DROP, DELETE, UPDATE, INSERT } from "../lib/queries.js";
+import { DROP, DELETE, INSERT } from "../lib/queries.js";
 
 const program = new Command();
 const df = new DataFactory();
