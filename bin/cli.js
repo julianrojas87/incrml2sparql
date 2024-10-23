@@ -116,8 +116,17 @@ async function main() {
             }
 
             if (updated.length > 0) {
+                // We do updates as 2 separate queries DELETE and INSERT DATA, due to performance
                 const materializedMembers = materializeMembers(updated, versionOfPath, store);
-                await UPDATE(materializedMembers, targetGraph, queryBuilder);
+                await DELETE(materializedMembers, targetGraph, queryBuilder);
+                if (limit > 0 && updated.length > limit) {
+                    for (let i = 0; i < materializedMembers.length; i += limit) {
+                        await INSERT(materializedMembers.slice(i, i + limit), targetGraph, queryBuilder);
+                    }
+                } else {
+                    // Create a corresponding INSERT query
+                    await INSERT(materializedMembers, targetGraph, queryBuilder);
+                }
             }
 
             if (created.length > 0) {
