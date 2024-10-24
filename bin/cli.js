@@ -66,11 +66,16 @@ function materializeMembers(quads, versionOfPath, store) {
 
     // Iterate over every member and adjust its properties
     for (const subject of Array.from(subjectSet)) {
-        const canonicalSubject = store.getQuads(subject, versionOfPath, null, null)[0].object;
         const memberQuads = store.getQuads(subject, null, null, null);
-        memberQuads.forEach(q => {
-            materializedMembers.push(df.quad(canonicalSubject, q.predicate, q.object));
-        });
+        const canonicalSubjectQuad = store.getQuads(subject, versionOfPath, null, null)[0];
+
+        if (canonicalSubjectQuad) {
+            memberQuads.forEach(q => {
+                materializedMembers.push(df.quad(canonicalSubjectQuad.object, q.predicate, q.object));
+            });
+        } else {
+            memberQuads.forEach(q => materializedMembers.push(q));
+        }
     }
 
     return materializedMembers;
