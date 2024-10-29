@@ -74,7 +74,7 @@ function materializeMembers(quads, versionOfPath, store) {
                 materializedMembers.push(df.quad(canonicalSubjectQuad.object, q.predicate, q.object));
             });
         } else {
-            memberQuads.forEach(q => materializedMembers.push(q));
+            memberQuads.forEach(q => materializedMembers.push(df.quad(q.subject, q.predicate, q.object)));
         }
     }
 
